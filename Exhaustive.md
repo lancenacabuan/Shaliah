@@ -46,13 +46,13 @@ The Hebrew Scriptures provide numerous examples of individuals who functioned as
 
 ### New Testament Application of the Shaliah Principle
 
-The New Testament consistently presents Jesus through the lens of the Shaliah principle. The Greek term apostolos (apostle) is the equivalent of the Hebrew shaliah, meaning "one sent on a mission"[11]. Jesus explicitly operated under this principle, stating: "Whoever receives you receives me, and whoever receives me receives him who sent me" (Matthew 10:40). This is a direct application of the agency principle.
+The New Testament consistently presents Jesus through the lens of the Shaliah principle. The Greek term apostolos (apostle) is the equivalent of the Hebrew shaliah, meaning "one sent on a mission"<sup>[11](#fn11)</sup>. Jesus explicitly operated under this principle, stating: "Whoever receives you receives me, and whoever receives me receives him who sent me" (Matthew 10:40). This is a direct application of the agency principle.
 
-**Jesus as God's Supreme Agent**: Throughout the Gospels, Jesus consistently presents himself as one who has been sent by God to act on God's behalf. He declares: "I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me" (John 5:30)[20]. This is the language of agency, not ontological equality with God.
+**Jesus as God's Supreme Agent**: Throughout the Gospels, Jesus consistently presents himself as one who has been sent by God to act on God's behalf. He declares: "I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me" (John 5:30)<sup>[20](#fn20)</sup>. This is the language of agency, not ontological equality with God.
 
-Jesus' miraculous works are explicitly attributed to his role as God's agent: "Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him" (Acts 2:22)[21]. The text does not say that Jesus performed these works as God, but that God performed them through Jesus as his agent.
+Jesus' miraculous works are explicitly attributed to his role as God's agent: "Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him" (Acts 2:22)<sup>[21](#fn21)</sup>. The text does not say that Jesus performed these works as God, but that God performed them through Jesus as his agent.
 
-**The Language of Sending**: The Fourth Gospel, often cited as supporting the highest Christology, actually emphasizes Jesus' role as the one sent by God. The verb "send" (pempo/apostello) appears over 40 times in relation to Jesus[11]. This consistent emphasis on Jesus being sent demonstrates his subordinate role as God's agent, not his equality with God.
+**The Language of Sending**: The Fourth Gospel, often cited as supporting the highest Christology, actually emphasizes Jesus' role as the one sent by God. The verb "send" (pempo/apostello) appears over 40 times in relation to Jesus<sup>[11](#fn11)</sup>. This consistent emphasis on Jesus being sent demonstrates his subordinate role as God's agent, not his equality with God.
 
 ### Addressing the "My Lord and My God" Problem
 
@@ -66,21 +66,21 @@ This interpretation gains support from the broader context of John's Gospel, whi
 
 The second crucial framework for understanding Jesus' identity is Wisdom Christology - the recognition that Jesus represents the embodiment or fulfillment of God's eternal wisdom and purpose rather than a pre-existent divine person. This understanding requires careful examination of how wisdom is portrayed in Jewish literature.
 
-**Lady Wisdom in Proverbs**: The book of Proverbs presents wisdom as a personified figure - "Lady Wisdom" - who speaks in the first person and describes her role in creation (Proverbs 8:22-31)[22] [23]. However, this personification is literary, not literal. As biblical scholars note, "Wisdom, in Proverbs 8, is a personification—not a goddess. She exemplifies the order and justice God has built into creation"[24].
+**Lady Wisdom in Proverbs**: The book of Proverbs presents wisdom as a personified figure - "Lady Wisdom" - who speaks in the first person and describes her role in creation (Proverbs 8:22-31)<sup>[22](#fn22)</sup> <sup>[23](#fn23)</sup>. However, this personification is literary, not literal. As biblical scholars note, "Wisdom, in Proverbs 8, is a personification—not a goddess. She exemplifies the order and justice God has built into creation"<sup>[24](#fn24)</sup>.
 
-The personification of wisdom serves a specific literary and theological purpose: to make abstract concepts more concrete and appealing to the reader. As one scholar explains: "Personification is a literary device which is used to personalize an impersonal concept. A personification is capable of expressing a whole spectrum of meanings"[25]. Lady Wisdom represents "wisdom itself, in all its forms and manifestations" but was never "understood nor worshipped as a goddess or a divine being independent of the one and only God"[25].
+The personification of wisdom serves a specific literary and theological purpose: to make abstract concepts more concrete and appealing to the reader. As one scholar explains: "Personification is a literary device which is used to personalize an impersonal concept. A personification is capable of expressing a whole spectrum of meanings"<sup>[25](#fn25)</sup>. Lady Wisdom represents "wisdom itself, in all its forms and manifestations" but was never "understood nor worshipped as a goddess or a divine being independent of the one and only God"<sup>[25](#fn25)</sup>.
 
-**Wisdom Literature's Broader Context**: The wisdom literature of Second Temple Judaism provides crucial background for understanding how New Testament authors applied wisdom categories to Jesus. Books like Sirach and the Wisdom of Solomon developed the theme of personified wisdom further, but maintained the understanding that wisdom was God's attribute, not a separate divine being[26].
+**Wisdom Literature's Broader Context**: The wisdom literature of Second Temple Judaism provides crucial background for understanding how New Testament authors applied wisdom categories to Jesus. Books like Sirach and the Wisdom of Solomon developed the theme of personified wisdom further, but maintained the understanding that wisdom was God's attribute, not a separate divine being<sup>[26](#fn26)</sup>.
 
 ### Jesus as Wisdom Embodied
 
 The New Testament authors, particularly Paul and John, drew upon this rich wisdom tradition to explain Jesus' significance. However, they did not identify Jesus with a pre-existent divine person, but rather presented him as the one in whom God's wisdom found its fullest expression in history.
 
-**Paul's Wisdom Christology**: Paul explicitly identifies Jesus as "the wisdom of God" (1 Corinthians 1:24)[27]. This does not mean Jesus is a pre-existent wisdom person, but rather that in Jesus, God's wisdom is fully revealed and made accessible to humanity. Paul explains that in Christ "are hidden all the treasures of wisdom and knowledge" (Colossians 2:3)[27], indicating that Jesus embodies divine wisdom in his person and work.
+**Paul's Wisdom Christology**: Paul explicitly identifies Jesus as "the wisdom of God" (1 Corinthians 1:24)<sup>[27](#fn27)</sup>. This does not mean Jesus is a pre-existent wisdom person, but rather that in Jesus, God's wisdom is fully revealed and made accessible to humanity. Paul explains that in Christ "are hidden all the treasures of wisdom and knowledge" (Colossians 2:3)<sup>[27](#fn27)</sup>, indicating that Jesus embodies divine wisdom in his person and work.
 
-The wisdom Christology in Paul's letters shows that "Jesus is portrayed with attributes of personified wisdom" as "a way of explaining who Jesus is and what he revealed to humanity"[28]. This represents "the fulfillment and ultimate expression of everything that the literary character of personified Wisdom was"[28].
+The wisdom Christology in Paul's letters shows that "Jesus is portrayed with attributes of personified wisdom" as "a way of explaining who Jesus is and what he revealed to humanity"<sup>[28](#fn28)</sup>. This represents "the fulfillment and ultimate expression of everything that the literary character of personified Wisdom was"<sup>[28](#fn28)</sup>.
 
-**John's Logos and Wisdom**: The prologue to John's Gospel (John 1:1-18) has often been read through the lens of Greek philosophy, but recent scholarship recognizes its roots in Jewish wisdom tradition. Dustin Smith's research identifies "20 parallels between the language of John's prologue and earlier wisdom literature"[29]. The Logos (Word) in John should be understood as a personification of God's creative word/wisdom rather than a literal pre-existent person[29].
+**John's Logos and Wisdom**: The prologue to John's Gospel (John 1:1-18) has often been read through the lens of Greek philosophy, but recent scholarship recognizes its roots in Jewish wisdom tradition. Dustin Smith's research identifies "20 parallels between the language of John's prologue and earlier wisdom literature"<sup>[29](#fn29)</sup>. The Logos (Word) in John should be understood as a personification of God's creative word/wisdom rather than a literal pre-existent person<sup>[29](#fn29)</sup>.
 
 This interpretation allows John's prologue to maintain both its high Christological claims and its commitment to Jewish monotheism. Jesus is the embodiment of God's word/wisdom - the one in whom God's purpose and character are fully revealed - without being a second God or a pre-existent divine person.
 
@@ -90,9 +90,9 @@ Several New Testament passages are commonly cited as proof texts for Christ's pr
 
 **"Before Abraham Was, I Am" (John 8:58)**: This statement is often interpreted as Jesus claiming pre-existence and applying the divine name to himself. However, within the context of Wisdom Christology, Jesus is asserting his embodiment of God's eternal plan and purpose. As the embodiment of divine wisdom, Jesus represents God's intention "before Abraham was" - not as a pre-existent person, but as the fulfillment of God's eternal purpose in history.
 
-**Philippians 2:5-11**: The famous "kenosis" passage is frequently read as describing the incarnation of a pre-existent divine being. However, scholars increasingly recognize that this hymn describes Jesus' exaltation rather than his pre-existence[30]. The passage presents Jesus as the human being who perfectly embodied divine wisdom by his obedience unto death, and who was therefore exalted by God to the highest position.
+**Philippians 2:5-11**: The famous "kenosis" passage is frequently read as describing the incarnation of a pre-existent divine being. However, scholars increasingly recognize that this hymn describes Jesus' exaltation rather than his pre-existence<sup>[30](#fn30)</sup>. The passage presents Jesus as the human being who perfectly embodied divine wisdom by his obedience unto death, and who was therefore exalted by God to the highest position.
 
-**Colossians 1:15-20**: This passage describes Christ as "the image of the invisible God, the firstborn of all creation" and states that "all things were created through him." When understood through Wisdom Christology, this language reflects the role that personified wisdom plays in creation according to Proverbs 8. Jesus is presented as the one through whom God's creative wisdom finds its fullest expression, not as a literal agent of creation[31].
+**Colossians 1:15-20**: This passage describes Christ as "the image of the invisible God, the firstborn of all creation" and states that "all things were created through him." When understood through Wisdom Christology, this language reflects the role that personified wisdom plays in creation according to Proverbs 8. Jesus is presented as the one through whom God's creative wisdom finds its fullest expression, not as a literal agent of creation<sup>[31](#fn31)</sup>.
 
 ## Theological Implications and Corrected Understanding
 
@@ -100,21 +100,21 @@ Several New Testament passages are commonly cited as proof texts for Christ's pr
 
 When viewed through the lenses of the Shaliah principle and Wisdom Christology, a different picture of Jesus emerges - one that maintains both his unique significance and his essential humanity while preserving strict monotheism.
 
-**Jesus as the Perfect Human**: The biblical evidence consistently presents Jesus as the ideal human being - the "last Adam" who succeeded where the first Adam failed (1 Corinthians 15:45)[32]. He was "born of a woman, born under the law" (Galatians 4:4) and "made like his brothers in every respect" (Hebrews 2:17). His uniqueness lies not in possessing a divine nature, but in his perfect obedience to God and his role as God's supreme agent.
+**Jesus as the Perfect Human**: The biblical evidence consistently presents Jesus as the ideal human being - the "last Adam" who succeeded where the first Adam failed (1 Corinthians 15:45)<sup>[32](#fn32)</sup>. He was "born of a woman, born under the law" (Galatians 4:4) and "made like his brothers in every respect" (Hebrews 2:17). His uniqueness lies not in possessing a divine nature, but in his perfect obedience to God and his role as God's supreme agent.
 
-**Jesus as God's Definitive Agent**: As the ultimate Shaliah, Jesus represents God's final and complete self-revelation to humanity. He could say "Whoever has seen me has seen the Father" (John 14:9) not because he is ontologically God, but because he perfectly represents God's character and will[33]. Through his perfect obedience, Jesus became the complete manifestation of God in the human sphere.
+**Jesus as God's Definitive Agent**: As the ultimate Shaliah, Jesus represents God's final and complete self-revelation to humanity. He could say "Whoever has seen me has seen the Father" (John 14:9) not because he is ontologically God, but because he perfectly represents God's character and will<sup>[33](#fn33)</sup>. Through his perfect obedience, Jesus became the complete manifestation of God in the human sphere.
 
-**Jesus as Wisdom Incarnate**: Jesus embodies God's wisdom not as a pre-existent divine person, but as the human being in whom God's eternal purpose finds its fulfillment. He is the one who perfectly lived out the way of wisdom described in the Hebrew Scriptures and brought God's wisdom to its intended consummation in history[34] [35].
+**Jesus as Wisdom Incarnate**: Jesus embodies God's wisdom not as a pre-existent divine person, but as the human being in whom God's eternal purpose finds its fulfillment. He is the one who perfectly lived out the way of wisdom described in the Hebrew Scriptures and brought God's wisdom to its intended consummation in history<sup>[34](#fn34)</sup> <sup>[35](#fn35)</sup>.
 
 ### The Gospel Rediscovered
 
 Understanding Jesus through these corrected lenses has profound implications for how we understand the gospel message itself.
 
-**The Original Gospel**: The earliest Christian proclamation was not about the incarnation of God, but about God's vindication of his faithful servant Jesus through resurrection and exaltation[36]. Peter's Pentecost sermon presents Jesus as "a man attested by God" who was crucified but whom "God raised up" (Acts 2:22-24)[36]. The gospel was the good news that God had vindicated his Messiah and inaugurated his kingdom through him.
+**The Original Gospel**: The earliest Christian proclamation was not about the incarnation of God, but about God's vindication of his faithful servant Jesus through resurrection and exaltation<sup>[36](#fn36)</sup>. Peter's Pentecost sermon presents Jesus as "a man attested by God" who was crucified but whom "God raised up" (Acts 2:22-24)<sup>[36](#fn36)</sup>. The gospel was the good news that God had vindicated his Messiah and inaugurated his kingdom through him.
 
-**Salvation Through the Perfect Human**: The gospel proclaims that salvation comes through the perfect human being who succeeded where all others failed. As Paul explains, "as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous" (Romans 5:19)[37]. Jesus saves not by being God, but by being the perfect human who lived a sinless life and offered himself as a sacrifice for others.
+**Salvation Through the Perfect Human**: The gospel proclaims that salvation comes through the perfect human being who succeeded where all others failed. As Paul explains, "as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous" (Romans 5:19)<sup>[37](#fn37)</sup>. Jesus saves not by being God, but by being the perfect human who lived a sinless life and offered himself as a sacrifice for others.
 
-**The Kingdom Message**: Jesus' central proclamation was "the kingdom of God" (Mark 1:15)[38]. This was not primarily a message about his own identity, but about God's reign being established through his mission. Understanding Jesus as God's agent rather than God himself restores proper focus to his kingdom message and ethical teachings.
+**The Kingdom Message**: Jesus' central proclamation was "the kingdom of God" (Mark 1:15)<sup>[38](#fn38)</sup>. This was not primarily a message about his own identity, but about God's reign being established through his mission. Understanding Jesus as God's agent rather than God himself restores proper focus to his kingdom message and ethical teachings.
 
 ## Counterarguments and Responses
 
@@ -122,7 +122,7 @@ Understanding Jesus through these corrected lenses has profound implications for
 
 **Objection**: If Jesus is not God, how can the New Testament present him as receiving worship, which should be reserved for God alone?
 
-**Response**: The New Testament presentation of Jesus receiving worship must be understood within the context of the Shaliah principle. As God's supreme agent, Jesus could receive honor and worship directed ultimately to God himself. This is similar to how the Angel of the LORD received worship in the Hebrew Scriptures[16]. Additionally, the Greek term proskuneo translated as "worship" can also mean "reverence" or "honor," and does not necessarily imply recognition of divinity[33].
+**Response**: The New Testament presentation of Jesus receiving worship must be understood within the context of the Shaliah principle. As God's supreme agent, Jesus could receive honor and worship directed ultimately to God himself. This is similar to how the Angel of the LORD received worship in the Hebrew Scriptures<sup>[16](#fn16)</sup>. Additionally, the Greek term proskuneo translated as "worship" can also mean "reverence" or "honor," and does not necessarily imply recognition of divinity<sup>[33](#fn33)</sup>.
 
 Furthermore, the New Testament maintains a clear distinction between the worship due to God and the honor due to Christ. Revelation 5:13 distinguishes between God "who sits on the throne" and "the Lamb," even while both receive praise. The honor given to Jesus is derivative of his role as God's representative, not indicative of his ontological divinity.
 
@@ -130,23 +130,23 @@ Furthermore, the New Testament maintains a clear distinction between the worship
 
 **Objection**: How can Wisdom Christology explain passages that seem to clearly teach Christ's pre-existence, such as John 1:1 and Colossians 1:16?
 
-**Response**: These passages become coherent when understood as describing the pre-existence of God's purpose and plan rather than a literal pre-existent person. Just as wisdom was "with God" from the beginning according to Proverbs 8, so the divine purpose that would be embodied in Jesus existed from eternity[29]. The language of pre-existence in these passages reflects the common Jewish understanding that God's purposes exist in the mind of God before their historical manifestation.
+**Response**: These passages become coherent when understood as describing the pre-existence of God's purpose and plan rather than a literal pre-existent person. Just as wisdom was "with God" from the beginning according to Proverbs 8, so the divine purpose that would be embodied in Jesus existed from eternity<sup>[29](#fn29)</sup>. The language of pre-existence in these passages reflects the common Jewish understanding that God's purposes exist in the mind of God before their historical manifestation.
 
-This interpretation finds support in similar language used of other figures in Jewish literature. For example, the Messiah could be spoken of as pre-existent without implying literal personal pre-existence - the reference was to God's eternal plan that would be fulfilled in history[39].
+This interpretation finds support in similar language used of other figures in Jewish literature. For example, the Messiah could be spoken of as pre-existent without implying literal personal pre-existence - the reference was to God's eternal plan that would be fulfilled in history<sup>[39](#fn39)</sup>.
 
 ### Objection: The Development of Doctrine
 
 **Objection**: Even if the earliest Christians did not clearly teach Christ's divinity, doesn't the development of this doctrine under the guidance of the Holy Spirit demonstrate its truth?
 
-**Response**: The argument from doctrinal development assumes that all theological evolution represents progress toward truth rather than departure from it. However, the New Testament itself warns against this assumption. Paul cautioned the Galatians about accepting "a different gospel" and warned that even an angel from heaven preaching a contrary message should be rejected (Galatians 1:6-9)[40]. The Apostle Peter predicted that "false teachers" would arise and "introduce destructive heresies" (2 Peter 2:1).
+**Response**: The argument from doctrinal development assumes that all theological evolution represents progress toward truth rather than departure from it. However, the New Testament itself warns against this assumption. Paul cautioned the Galatians about accepting "a different gospel" and warned that even an angel from heaven preaching a contrary message should be rejected (Galatians 1:6-9)<sup>[40](#fn40)</sup>. The Apostle Peter predicted that "false teachers" would arise and "introduce destructive heresies" (2 Peter 2:1).
 
-The historical evidence suggests that the development of Trinitarian doctrine was influenced by factors beyond biblical exegesis, including philosophical speculation, political considerations, and institutional needs for doctrinal uniformity[3]. The fact that this development took several centuries and required imperial intervention suggests it was not an organic unfolding of apostolic truth but an imposition upon it.
+The historical evidence suggests that the development of Trinitarian doctrine was influenced by factors beyond biblical exegesis, including philosophical speculation, political considerations, and institutional needs for doctrinal uniformity<sup>[3](#fn3)</sup>. The fact that this development took several centuries and required imperial intervention suggests it was not an organic unfolding of apostolic truth but an imposition upon it.
 
 ## Contemporary Relevance and Practical Implications
 
 ### Recovering Biblical Monotheism
 
-Accepting the biblical Unitarian understanding of Jesus has profound implications for Christian faith and practice. First and foremost, it recovers the strict monotheism that was central to Jesus' own teaching. When asked about the greatest commandment, Jesus quoted the Shema: "Hear, O Israel: The Lord our God, the Lord is one" (Mark 12:29)[41]. A biblical Unitarian understanding allows this foundational confession to be maintained without philosophical qualifications or explanations.
+Accepting the biblical Unitarian understanding of Jesus has profound implications for Christian faith and practice. First and foremost, it recovers the strict monotheism that was central to Jesus' own teaching. When asked about the greatest commandment, Jesus quoted the Shema: "Hear, O Israel: The Lord our God, the Lord is one" (Mark 12:29)<sup>[41](#fn41)</sup>. A biblical Unitarian understanding allows this foundational confession to be maintained without philosophical qualifications or explanations.
 
 This recovery of biblical monotheism also addresses the cognitive dissonance many believers experience when trying to reconcile Trinitarian doctrine with biblical passages that clearly distinguish between God and Christ. Instead of explaining away texts that speak of Christ's subordination to the Father, biblical Unitarianism embraces them as accurate descriptions of the relationship between God and his supreme agent.
 
@@ -160,7 +160,7 @@ Furthermore, this understanding addresses one of the primary objections that Jew
 
 Understanding Jesus as the perfect human being rather than God incarnate has significant implications for Christian discipleship. If Jesus was God, his moral example becomes less relevant since he possessed resources unavailable to ordinary humans. However, if Jesus was fully human like us, his perfect obedience becomes both more remarkable and more imitable.
 
-This understanding also affects prayer and worship practices. Rather than praying to Jesus as God, biblical Unitarianism encourages prayer to God through Jesus as our mediator and advocate (1 Timothy 2:5)[21]. This restores the proper relationship between God, Christ, and believers as presented in the New Testament.
+This understanding also affects prayer and worship practices. Rather than praying to Jesus as God, biblical Unitarianism encourages prayer to God through Jesus as our mediator and advocate (1 Timothy 2:5)<sup>[21](#fn21)</sup>. This restores the proper relationship between God, Christ, and believers as presented in the New Testament.
 
 ## Conclusion: The Rediscovered Jesus and His Gospel
 
