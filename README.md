@@ -4,15 +4,15 @@
 
 The identity of Jesus Christ stands as the most consequential theological question in Christian history. For nearly two millennia, the dominant position within Christianity has been Trinitarian orthodoxy, which asserts that Jesus is the eternal second person of a triune Godhead, "very God of very God" as proclaimed at Nicaea in 325 CE. However, a growing body of biblical scholarship suggests that this understanding represents a significant departure from both the original Jewish context of Christianity and the earliest Christian beliefs about Jesus' person and work.
 
-This comprehensive study examines the Biblical Unitarian perspective, which maintains that while Jesus Christ is indeed the Son of God and humanity's divine Messiah, he is not God himself but rather God's supreme agent—a human being divinely commissioned and empowered to fulfill God's redemptive purposes<sup>[1](#fn1)</sup><sup>[2](#fn2)</sup>. Through careful analysis of the Jewish principle of *Shaliah* (agency), Wisdom Christology, and historical evidence from the early church, we will demonstrate that the Biblical Unitarian view not only provides a more coherent understanding of Scripture but also restores the authentic Gospel message that Jesus himself proclaimed.
+This comprehensive study examines the Biblical Unitarian perspective, which maintains that while Jesus Christ is indeed the Son of God and humanity's divine Messiah, he is not God himself but rather God's supreme agent—a human being divinely commissioned and empowered to fulfill God's redemptive purposes<sup>[1](#fn1)</sup> <sup>[2](#fn2)</sup>. Through careful analysis of the Jewish principle of *Shaliah* (agency), Wisdom Christology, and historical evidence from the early church, we will demonstrate that the Biblical Unitarian view not only provides a more coherent understanding of Scripture but also restores the authentic Gospel message that Jesus himself proclaimed.
 
 ## The Jewish Shaliah Principle of Agency: The Foundation for Understanding Jesus' Divine Status
 
 ### Understanding Shaliah in Jewish Law
 
-The concept of *Shaliah* (Hebrew: שָלִיחַ, meaning "one who is sent") forms a crucial foundation for understanding how Jesus could be called "God" without actually being God himself. In Jewish law, the principle is expressed in the dictum: "a person's agent is regarded as the person himself" (*Nedarim* 72b; *Kiddushin* 41b)<sup>[3](#fn3)</sup><sup>[4](#fn4)</sup>. This legal concept meant that any act committed by a duly appointed agent was regarded as having been committed by the principal, who therefore bore full responsibility for it with consequent complete absence of liability on the part of the agent<sup>[5](#fn5)</sup><sup>[6](#fn6)</sup>.
+The concept of *Shaliah* (Hebrew: שָלִיחַ, meaning "one who is sent") forms a crucial foundation for understanding how Jesus could be called "God" without actually being God himself. In Jewish law, the principle is expressed in the dictum: "a person's agent is regarded as the person himself" (*Nedarim* 72b; *Kiddushin* 41b)<sup>[3](#fn3)</sup> <sup>[4](#fn4)</sup>. This legal concept meant that any act committed by a duly appointed agent was regarded as having been committed by the principal, who therefore bore full responsibility for it with consequent complete absence of liability on the part of the agent<sup>[5](#fn5)</sup> <sup>[6](#fn6)</sup>.
 
-The Encyclopedia of the Jewish Religion explains: "The main point of the Jewish law of agency is expressed in the dictum, 'a person's agent is regarded as the person himself.' Therefore any act committed by a duly appointed agent is regarded as having been committed by the principal"<sup>[4](#fn4)</sup><sup>[7](#fn7)</sup>. This principle was not merely a legal technicality but a fundamental aspect of how authority and representation functioned in ancient Jewish society.
+The Encyclopedia of the Jewish Religion explains: "The main point of the Jewish law of agency is expressed in the dictum, 'a person's agent is regarded as the person himself.' Therefore any act committed by a duly appointed agent is regarded as having been committed by the principal"<sup>[4](#fn4)</sup> <sup>[7](#fn7)</sup>. This principle was not merely a legal technicality but a fundamental aspect of how authority and representation functioned in ancient Jewish society.
 
 ### Biblical Applications of Agency
 
@@ -24,37 +24,37 @@ The Greek equivalent of *Shaliah* in the New Testament is *apostolos*, meaning "
 
 ### Moses as "God" to Pharaoh
 
-One of the clearest examples of the Shaliah principle appears in Exodus 7:1, where God tells Moses, "See, I have made you as God to Pharaoh, and Aaron your brother shall be your prophet"<sup>[9](#fn9)</sup><sup>[10](#fn10)</sup>. The Hebrew word used here is *Elohim*, the same term typically translated as "God"<sup>[9](#fn9)</sup>. Importantly, this does not mean Moses became deity in essence, but rather that he would function as God's representative with divine authority in Pharaoh's eyes.
+One of the clearest examples of the Shaliah principle appears in Exodus 7:1, where God tells Moses, "See, I have made you as God to Pharaoh, and Aaron your brother shall be your prophet"<sup>[9](#fn9)</sup> <sup>[10](#fn10)</sup>. The Hebrew word used here is *Elohim*, the same term typically translated as "God"<sup>[9](#fn9)</sup>. Importantly, this does not mean Moses became deity in essence, but rather that he would function as God's representative with divine authority in Pharaoh's eyes.
 
 Biblical commentators explain that Moses "was authorized to speak and act in God's name and stead, and, under the divine direction, was endued with a divine power to do that which is above the ordinary power of nature, and invested with a divine authority to demand obedience from a sovereign prince and punish disobedience"<sup>[11](#fn11)</sup>. Matthew Henry clarifies: "Moses was a god, but he was only a made god, not essentially one by nature; he was no god but by commission"<sup>[11](#fn11)</sup>.
 
 ### The Judges Called "Gods" in Psalm 82
 
-Psalm 82 provides another striking example where human officials are called *elohim* ("gods"). The psalm begins: "God stands in the congregation of the mighty; He judges among the gods" (Psalm 82:1)<sup>[12](#fn12)</sup><sup>[13](#fn13)</sup>. These "gods" are clearly identified as human judges who have been appointed by God to represent His justice on earth<sup>[14](#fn14)</sup><sup>[15](#fn15)</sup>.
+Psalm 82 provides another striking example where human officials are called *elohim* ("gods"). The psalm begins: "God stands in the congregation of the mighty; He judges among the gods" (Psalm 82:1)<sup>[12](#fn12)</sup> <sup>[13](#fn13)</sup>. These "gods" are clearly identified as human judges who have been appointed by God to represent His justice on earth<sup>[14](#fn14)</sup> <sup>[15](#fn15)</sup>.
 
-Jesus himself references this passage in John 10:34-36 when defending against accusations of blasphemy. He argues that if Scripture calls human judges "gods" simply because they received God's word and acted as His representatives, how could it be blasphemy for him to claim to be the Son of God when he was "sanctified and sent into the world" by the Father<sup>[12](#fn12)</sup><sup>[15](#fn15)</sup>?
+Jesus himself references this passage in John 10:34-36 when defending against accusations of blasphemy. He argues that if Scripture calls human judges "gods" simply because they received God's word and acted as His representatives, how could it be blasphemy for him to claim to be the Son of God when he was "sanctified and sent into the world" by the Father<sup>[12](#fn12)</sup> <sup>[15](#fn15)</sup>?
 
 ### Aaron and Other Divinely Appointed Leaders
 
-The pattern continues throughout the Hebrew Scriptures. Aaron is described as being among God's priests alongside Moses, with both functioning in representative roles (Psalm 99:6)<sup>[16](#fn16)</sup><sup>[17](#fn17)</sup>. The principle extends to other biblical figures who were given extraordinary authority to act on God's behalf, including the prophets who spoke "Thus says the Lord" and performed miraculous signs<sup>[4](#fn4)</sup>.
+The pattern continues throughout the Hebrew Scriptures. Aaron is described as being among God's priests alongside Moses, with both functioning in representative roles (Psalm 99:6)<sup>[16](#fn16)</sup> <sup>[17](#fn17)</sup>. The principle extends to other biblical figures who were given extraordinary authority to act on God's behalf, including the prophets who spoke "Thus says the Lord" and performed miraculous signs<sup>[4](#fn4)</sup>.
 
 ## Wisdom Christology: Jesus as the Embodiment of God's Eternal Plan
 
 ### Understanding Personified Wisdom in Hebrew Literature
 
-The concept of Wisdom (*Sophia* in Greek, *Chokmah* in Hebrew) plays a crucial role in understanding Jesus' identity without resorting to Trinitarian explanations. Throughout the Hebrew Scriptures, particularly in Proverbs 8, Wisdom is personified as a feminine figure who was with God during creation<sup>[18](#fn18)</sup><sup>[19](#fn19)</sup><sup>[20](#fn20)</sup>.
+The concept of Wisdom (*Sophia* in Greek, *Chokmah* in Hebrew) plays a crucial role in understanding Jesus' identity without resorting to Trinitarian explanations. Throughout the Hebrew Scriptures, particularly in Proverbs 8, Wisdom is personified as a feminine figure who was with God during creation<sup>[18](#fn18)</sup> <sup>[19](#fn19)</sup> <sup>[20](#fn20)</sup>.
 
 However, scholars emphasize that this personification is literary, not literal. The NIV Archaeological Study Bible explains: "Wisdom, in Proverbs 8, is a personification—not a goddess. She exemplifies the order and justice God has built into creation"<sup>[18](#fn18)</sup>. This personification represents God's own wisdom and plan, not a separate divine person.
 
 ### Jesus as God's Wisdom Incarnate
 
-The New Testament explicitly identifies Jesus with this personified Wisdom. Paul declares that Christ is "the power of God and the wisdom of God" (1 Corinthians 1:24)<sup>[21](#fn21)</sup><sup>[22](#fn22)</sup>. This connection explains the parallels between Proverbs 8 and John 1 without requiring belief in a literal pre-existent divine person.
+The New Testament explicitly identifies Jesus with this personified Wisdom. Paul declares that Christ is "the power of God and the wisdom of God" (1 Corinthians 1:24)<sup>[21](#fn21)</sup> <sup>[22](#fn22)</sup>. This connection explains the parallels between Proverbs 8 and John 1 without requiring belief in a literal pre-existent divine person.
 
-Daniel Ebert explains that Jesus became "wisdom from God" for believers in the sense that he embodies God's plan of salvation: "God's wisdom in Christ is not merely an idea or a theoretical construction. It is grounded in historical events whereby God uniquely reveals himself"<sup>[23](#fn23)</sup>. The wisdom that was "with God" in the beginning refers to God's eternal plan and purpose, which found its ultimate expression in the person and work of Jesus Christ<sup>[20](#fn20)</sup><sup>[24](#fn24)</sup>.
+Daniel Ebert explains that Jesus became "wisdom from God" for believers in the sense that he embodies God's plan of salvation: "God's wisdom in Christ is not merely an idea or a theoretical construction. It is grounded in historical events whereby God uniquely reveals himself"<sup>[23](#fn23)</sup>. The wisdom that was "with God" in the beginning refers to God's eternal plan and purpose, which found its ultimate expression in the person and work of Jesus Christ<sup>[20](#fn20)</sup> <sup>[24](#fn24)</sup>.
 
 ### The Logos as God's Expressed Purpose
 
-John's Gospel uses the term *Logos* (Word) in a way that parallels the Wisdom literature. The *Logos* represents God's expressed purpose and plan, which "became flesh" in the person of Jesus (John 1:14)<sup>[25](#fn25)</sup><sup>[26](#fn26)</sup>. This understanding allows us to maintain the high Christology of John's Gospel while recognizing that Jesus is the human embodiment of God's eternal purpose rather than a pre-existent divine person.
+John's Gospel uses the term *Logos* (Word) in a way that parallels the Wisdom literature. The *Logos* represents God's expressed purpose and plan, which "became flesh" in the person of Jesus (John 1:14)<sup>[25](#fn25)</sup> <sup>[26](#fn26)</sup>. This understanding allows us to maintain the high Christology of John's Gospel while recognizing that Jesus is the human embodiment of God's eternal purpose rather than a pre-existent divine person.
 
 As one scholar notes: "The resonances with Wisdom theology are most likely present because John found that language useful to articulate Jesus's pre-incarnation work, not as a pre-existent person, but as God's eternal plan now realized in history"<sup>[24](#fn24)</sup>.
 
@@ -62,19 +62,19 @@ As one scholar notes: "The resonances with Wisdom theology are most likely prese
 
 ### The Absence of Trinity in Early Christianity
 
-Historical evidence demonstrates that Trinitarian doctrine was not part of original Christianity but developed gradually over several centuries. The New Catholic Encyclopedia acknowledges: "The formulation 'one God in three Persons' was not solidly established, certainly not fully assimilated into Christian life and its profession of faith, prior to the end of the 4th century"<sup>[27](#fn27)</sup><sup>[28](#fn28)</sup>.
+Historical evidence demonstrates that Trinitarian doctrine was not part of original Christianity but developed gradually over several centuries. The New Catholic Encyclopedia acknowledges: "The formulation 'one God in three Persons' was not solidly established, certainly not fully assimilated into Christian life and its profession of faith, prior to the end of the 4th century"<sup>[27](#fn27)</sup> <sup>[28](#fn28)</sup>.
 
 The Encyclopedia Americana confirms: "Christianity derived from Judaism and Judaism was strictly Unitarian [believing that God is one person]. The road which led from Jerusalem to Nicea was scarcely a straight one. Fourth century Trinitarianism did not reflect accurately early Christian teaching regarding the nature of God; it was, on the contrary, a deviation from this teaching"<sup>[27](#fn27)</sup>.
 
 ### The Influence of Greek Philosophy
 
-The development of Trinitarian doctrine was significantly influenced by Greek philosophical concepts rather than biblical revelation. The New Schaff-Herzog Encyclopedia of Religious Knowledge observes: "The doctrines of the Logos and the Trinity received their shape from Greek Fathers, who were much influenced, directly or indirectly, by the Platonic philosophy. That errors and corruptions crept into the Church from this source cannot be denied"<sup>[27](#fn27)</sup><sup>[29](#fn29)</sup>.
+The development of Trinitarian doctrine was significantly influenced by Greek philosophical concepts rather than biblical revelation. The New Schaff-Herzog Encyclopedia of Religious Knowledge observes: "The doctrines of the Logos and the Trinity received their shape from Greek Fathers, who were much influenced, directly or indirectly, by the Platonic philosophy. That errors and corruptions crept into the Church from this source cannot be denied"<sup>[27](#fn27)</sup> <sup>[29](#fn29)</sup>.
 
 German theologian Adolf von Harnack's famous assertion that Christian doctrinal development "is a work of the Greek spirit on the soil of the gospel" reflects this historical reality<sup>[30](#fn30)</sup>. Many thinkers influential in developing Trinitarian doctrines "were steeped in the thought not only of Middle Platonism and Neoplatonism, but also the Stoics, Aristotle, and other currents in Greek philosophy"<sup>[29](#fn29)</sup>.
 
 ### The Councils of Nicaea and Constantinople
 
-The Council of Nicaea in 325 CE was convened primarily to address the Arian controversy, not to establish a doctrine that had been clearly taught from the beginning<sup>[31](#fn31)</sup><sup>[32](#fn32)</sup>. The council declared that Jesus was *homoousios* (of the same substance) with the Father, a philosophical term not found in Scripture<sup>[32](#fn32)</sup>.
+The Council of Nicaea in 325 CE was convened primarily to address the Arian controversy, not to establish a doctrine that had been clearly taught from the beginning<sup>[31](#fn31)</sup> <sup>[32](#fn32)</sup>. The council declared that Jesus was *homoousios* (of the same substance) with the Father, a philosophical term not found in Scripture<sup>[32](#fn32)</sup>.
 
 The Council of Constantinople in 381 CE extended this to include the Holy Spirit in the Godhead, creating the first fully Trinitarian creed<sup>[31](#fn31)</sup>. These councils represented human attempts to systematize Christian doctrine using Greek philosophical categories rather than simply following biblical revelation.
 
@@ -82,7 +82,7 @@ The Council of Constantinople in 381 CE extended this to include the Holy Spirit
 
 ### The Apostolic Fathers
 
-The earliest Christian writers after the New Testament period, known as the Apostolic Fathers, did not teach Trinitarian doctrine. Clement of Rome, Ignatius, Polycarp, Hermas, and Papias all wrote in ways consistent with Unitarian theology rather than Trinitarianism<sup>[33](#fn33)</sup><sup>[34](#fn34)</sup>.
+The earliest Christian writers after the New Testament period, known as the Apostolic Fathers, did not teach Trinitarian doctrine. Clement of Rome, Ignatius, Polycarp, Hermas, and Papias all wrote in ways consistent with Unitarian theology rather than Trinitarianism<sup>[33](#fn33)</sup> <sup>[34](#fn34)</sup>.
 
 The Watchtower research on Apostolic Fathers concludes: "In the matter of God's supremacy and his relationship with Jesus, the teaching of the Apostolic Fathers is fairly consistent with the teaching of Jesus, the disciples, and the apostles, as recorded in the Bible. All of them speak of God, not as a Trinity, but as a separate, eternal, almighty, all-knowing Being"<sup>[34](#fn34)</sup>.
 
@@ -90,7 +90,7 @@ The Watchtower research on Apostolic Fathers concludes: "In the matter of God's 
 
 Research indicates that the "Orthodox" church fathers of the early centuries before Nicaea were predominantly Unitarian in their Christology, more similar to Arians than later Trinitarians<sup>[33](#fn33)</sup>. They affirmed that Jesus was "God" in a lesser sense as God's first creation and supreme agent, but they did not teach the co-equality and co-eternity that became characteristic of Trinitarian orthodoxy.
 
-Even when some early fathers used language that might sound Trinitarian, careful analysis reveals they maintained subordinationist views where the Son is clearly inferior to and dependent upon the Father<sup>[33](#fn33)</sup><sup>[34](#fn34)</sup>. This represents continuity with the biblical witness rather than the later philosophical developments of the fourth century.
+Even when some early fathers used language that might sound Trinitarian, careful analysis reveals they maintained subordinationist views where the Son is clearly inferior to and dependent upon the Father<sup>[33](#fn33)</sup> <sup>[34](#fn34)</sup>. This represents continuity with the biblical witness rather than the later philosophical developments of the fourth century.
 
 ### The Discontinuity with Later Orthodoxy
 
@@ -100,9 +100,9 @@ There is a clear discontinuity between the early Church and later Trinitarian do
 
 ### John 1:1 and the Word
 
-Trinitarian interpreters often cite John 1:1 ("the Word was God") as proof of Jesus' deity. However, this verse should be understood within the context of Wisdom Christology. The *Logos* (Word) represents God's expressed purpose and plan, not a separate divine person<sup>[26](#fn26)</sup><sup>[35](#fn35)</sup>. When this *Logos* "became flesh" (John 1:14), it means that God's eternal purpose was embodied in the human Jesus<sup>[25](#fn25)</sup>.
+Trinitarian interpreters often cite John 1:1 ("the Word was God") as proof of Jesus' deity. However, this verse should be understood within the context of Wisdom Christology. The *Logos* (Word) represents God's expressed purpose and plan, not a separate divine person<sup>[26](#fn26)</sup> <sup>[35](#fn35)</sup>. When this *Logos* "became flesh" (John 1:14), it means that God's eternal purpose was embodied in the human Jesus<sup>[25](#fn25)</sup>.
 
-The parallel with Wisdom literature helps clarify this passage. Just as Wisdom was "with God" in Proverbs 8 without being a separate person, so the *Logos* was "with God" as God's own expressed purpose and plan<sup>[36](#fn36)</sup><sup>[35](#fn35)</sup>.
+The parallel with Wisdom literature helps clarify this passage. Just as Wisdom was "with God" in Proverbs 8 without being a separate person, so the *Logos* was "with God" as God's own expressed purpose and plan<sup>[36](#fn36)</sup> <sup>[35](#fn35)</sup>.
 
 ### "I AM" Statements in John's Gospel
 
@@ -116,15 +116,15 @@ When Thomas exclaims "My Lord and my God!" upon seeing the resurrected Jesus, th
 
 ### High Christological Language
 
-Other passages that use high Christological language (such as calling Jesus "Lord" or attributing creation to him) can be understood through the lens of agency and Wisdom Christology. As God's supreme agent and the embodiment of His creative purpose, Jesus can be spoken of in ways that reflect his unique role without implying that he is essentially God<sup>[39](#fn39)</sup><sup>[36](#fn36)</sup>.
+Other passages that use high Christological language (such as calling Jesus "Lord" or attributing creation to him) can be understood through the lens of agency and Wisdom Christology. As God's supreme agent and the embodiment of His creative purpose, Jesus can be spoken of in ways that reflect his unique role without implying that he is essentially God<sup>[39](#fn39)</sup> <sup>[36](#fn36)</sup>.
 
 ## Rediscovering the True Gospel and Jesus' Mission
 
 ### Jesus' Proclamation of the Kingdom
 
-The central message of Jesus' ministry was the proclamation of the Kingdom of God, not his own divinity. Luke 4:43 records Jesus saying: "I must preach the good news of the kingdom of God to the other towns as well, for I was sent for this purpose"<sup>[40](#fn40)</sup><sup>[41](#fn41)</sup>. This kingdom-focused mission stands in contrast to later Trinitarian emphasis on Jesus' divine nature.
+The central message of Jesus' ministry was the proclamation of the Kingdom of God, not his own divinity. Luke 4:43 records Jesus saying: "I must preach the good news of the kingdom of God to the other towns as well, for I was sent for this purpose"<sup>[40](#fn40)</sup> <sup>[41](#fn41)</sup>. This kingdom-focused mission stands in contrast to later Trinitarian emphasis on Jesus' divine nature.
 
-The Gospel of the Kingdom represents the good news that God's reign is being established through His chosen Messiah<sup>[41](#fn41)</sup><sup>[42](#fn42)</sup>. Jesus came not to be worshipped as God but to turn people back to the worship of the one true God, the Father<sup>[43](#fn43)</sup><sup>[44](#fn44)</sup>.
+The Gospel of the Kingdom represents the good news that God's reign is being established through His chosen Messiah<sup>[41](#fn41)</sup> <sup>[42](#fn42)</sup>. Jesus came not to be worshipped as God but to turn people back to the worship of the one true God, the Father<sup>[43](#fn43)</sup> <sup>[44](#fn44)</sup>.
 
 ### Jesus' Relationship with the Father
 
@@ -134,7 +134,7 @@ Jesus' human nature is not merely an "incarnation" of a divine person but repres
 
 ### The Mission of Reconciliation
 
-Jesus' mission was to reconcile humanity to God by perfectly fulfilling God's will and providing the ultimate sacrifice for sin<sup>[46](#fn46)</sup><sup>[47](#fn47)</sup>. This mission required a human representative who could identify with human suffering and temptation while maintaining perfect obedience to God.
+Jesus' mission was to reconcile humanity to God by perfectly fulfilling God's will and providing the ultimate sacrifice for sin<sup>[46](#fn46)</sup> <sup>[47](#fn47)</sup>. This mission required a human representative who could identify with human suffering and temptation while maintaining perfect obedience to God.
 
 The Biblical Unitarian view enhances rather than diminishes Jesus' accomplishment by recognizing that his victory was achieved through dependence on God rather than through inherent divine power. This makes him a more meaningful example and Savior for human beings who must also depend on God for spiritual victory<sup>[45](#fn45)</sup>.
 
@@ -154,7 +154,7 @@ Additionally, the Greek word *proskuneo* translated as "worship" can also mean "
 
 ### Maintaining Biblical Authority
 
-Some critics suggest that Biblical Unitarianism undermines biblical authority by rejecting traditional interpretations. However, Biblical Unitarians maintain that their position is based on careful exegesis of Scripture in its original context rather than on later theological developments<sup>[1](#fn1)</sup><sup>[50](#fn50)</sup>. They argue that returning to the biblical understanding actually strengthens rather than weakens Scripture's authority.
+Some critics suggest that Biblical Unitarianism undermines biblical authority by rejecting traditional interpretations. However, Biblical Unitarians maintain that their position is based on careful exegesis of Scripture in its original context rather than on later theological developments<sup>[1](#fn1)</sup> <sup>[50](#fn50)</sup>. They argue that returning to the biblical understanding actually strengthens rather than weakens Scripture's authority.
 
 ## Conclusion: Rediscovering the Biblical Jesus and His Mission
 
@@ -162,7 +162,7 @@ The Biblical Unitarian perspective offers a compelling alternative to Trinitaria
 
 This understanding restores the authentic Gospel message that Jesus proclaimed—the Kingdom of God established through a human Messiah who perfectly represented and obeyed the one true God. Rather than diminishing Jesus' significance, this view enhances our appreciation for his genuine human achievement in perfectly fulfilling God's will despite real temptation and suffering.
 
-The historical evidence demonstrates that Trinitarian doctrine was a later development influenced by Greek philosophical concepts rather than a preservation of apostolic teaching. The earliest Christians, including the Apostolic Fathers, maintained views more consistent with Biblical Unitarianism than with later Trinitarian orthodoxy<sup>[33](#fn33)</sup><sup>[34](#fn34)</sup><sup>[28](#fn28)</sup>.
+The historical evidence demonstrates that Trinitarian doctrine was a later development influenced by Greek philosophical concepts rather than a preservation of apostolic teaching. The earliest Christians, including the Apostolic Fathers, maintained views more consistent with Biblical Unitarianism than with later Trinitarian orthodoxy<sup>[33](#fn33)</sup> <sup>[34](#fn34)</sup> <sup>[28](#fn28)</sup>.
 
 Jesus Christ remains the unique Son of God, the perfect human representative of the Father, and the only means of salvation. However, he achieves these roles not through inherent deity but through perfect obedience to and dependence upon the one true God who sent him. This understanding calls believers to follow Jesus' example of faith in and submission to the Father, rather than worshipping Jesus as if he were the Father himself.
 
