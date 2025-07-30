@@ -1,4 +1,4 @@
-# The Biblical Unitarian View of Jesus Christ Through the Lens of the Jewish Shaliah (Agency) Principle and Wisdom Christology: A Rediscovery of the True Gospel Through a Corrected Understanding of the Person and Work of the Human Messiah
+# The Biblical Unitarian View of Jesus Christ Through the Lens of the Jewish "Shaliah" Agency Principle and "Wisdom" Christology: A Rediscovery of the True Gospel Through a Corrected Understanding of the Person and Work of the Human Messiah
 
 ## Introduction
 
