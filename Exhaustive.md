@@ -1,4 +1,4 @@
-# The Biblical Unitarian View of Jesus Christ Through the Lens of the Jewish Shaliah (Agency) Principle and Wisdom Christology: A Rediscovery of the True Gospel Through a Corrected Understanding of the Person and Work of Jesus
+# The Biblical Unitarian View of Jesus Christ Through the Lens of the Jewish Shaliah (Agency) Principle and Wisdom Christology: A Rediscovery of the True Gospel Through a Corrected Understanding of the Person and Work of the Human Messiah
 
 ## Introduction
 
@@ -118,7 +118,7 @@ Understanding Jesus through these corrected lenses has profound implications for
 
 ## Counterarguments and Responses
 
-### Objection: The Worship of Jesus
+### The Worship of Jesus
 
 **Objection**: If Jesus is not God, how can the New Testament present him as receiving worship, which should be reserved for God alone?
 
@@ -126,7 +126,7 @@ Understanding Jesus through these corrected lenses has profound implications for
 
 Furthermore, the New Testament maintains a clear distinction between the worship due to God and the honor due to Christ. Revelation 5:13 distinguishes between God "who sits on the throne" and "the Lamb," even while both receive praise. The honor given to Jesus is derivative of his role as God's representative, not indicative of his ontological divinity.
 
-### Objection: The Pre-existence Passages
+### The Pre-existence Passages
 
 **Objection**: How can Wisdom Christology explain passages that seem to clearly teach Christ's pre-existence, such as John 1:1 and Colossians 1:16?
 
@@ -134,7 +134,7 @@ Furthermore, the New Testament maintains a clear distinction between the worship
 
 This interpretation finds support in similar language used of other figures in Jewish literature. For example, the Messiah could be spoken of as pre-existent without implying literal personal pre-existence - the reference was to God's eternal plan that would be fulfilled in history<sup>[39](#fn39)</sup>.
 
-### Objection: The Development of Doctrine
+### The Development of Doctrine
 
 **Objection**: Even if the earliest Christians did not clearly teach Christ's divinity, doesn't the development of this doctrine under the guidance of the Holy Spirit demonstrate its truth?
 
