@@ -18,7 +18,7 @@ The doctrine of the Trinity, as understood in historic orthodoxy, did not emerge
 
 ### **1.1 The Jewish Roots of Early Christian Monotheism**
 
-The earliest Christians were Jews, deeply rooted in the monotheistic framework of the Shema: *“Hear, O Israel! The Lord is our God, the Lord is one!”* (Deut 6:4, NASB1995). For them, there was no division within the Godhead; God was one person, not a plurality of persons sharing a single essence. This foundational truth shaped their understanding of God's actions in creation, redemption, and revelation.
+The earliest Christians were Jews, deeply rooted in the monotheistic framework of the Shema: *“Hear, O Israel! The Lord is our God, the Lord is one!”* (Deut 6:4). For them, there was no division within the Godhead; God was one person, not a plurality of persons sharing a single essence. This foundational truth shaped their understanding of God's actions in creation, redemption, and revelation.
 
 Jesus’ own statements, such as *“My Father is greater than I”* (John 14:28) and *“This is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent”* (John 17:3), reflect a clear distinction between Himself and God. Early preaching in Acts likewise maintained this monotheistic clarity: *“Men of Israel, listen to these words: Jesus the Nazarene, a man attested to you by God with miracles...”* (Acts 2:22). These proclamations speak of Jesus as God's agent, not God Himself.
 
@@ -134,7 +134,7 @@ Trinitarian theology often draws upon this **Wisdom Christology** to support the
 
 In **Proverbs 8**, Wisdom is portrayed as present “from the beginning,” rejoicing before God and assisting in creation:
 
-> *“The LORD possessed me at the beginning of His way, before His works of old... When He established the heavens, I was there...”* (Prov 8:22–27, NASB1995)
+> *“The LORD possessed me at the beginning of His way, before His works of old... When He established the heavens, I was there...”* (Prov 8:22–27)
 
 Some interpret this passage as a veiled reference to Christ, particularly given the language of being “brought forth” and “beside” God. But in context, **Wisdom is a poetic personification**—not a distinct hypostasis. Proverbs 1–9 uses female imagery and metaphor to contrast **Lady Wisdom** with **Lady Folly**. The reader is invited to “love her” and “listen to her,” just as they would obey God’s instruction. This was never intended as an ontological statement about a second divine being.
 
@@ -309,7 +309,7 @@ Each passage will be examined in its literary context, then compared across both
 
 #### **Textual Overview**
 
-> *“In the beginning was the Word, and the Word was with God, and the Word was God... And the Word became flesh, and dwelt among us...”* (John 1:1, 14, NASB1995)
+> *“In the beginning was the Word, and the Word was with God, and the Word was God... And the Word became flesh, and dwelt among us...”* (John 1:1,14)
 
 #### **Trinitarian Interpretation**
 
@@ -327,7 +327,7 @@ In this model, *“the Word became flesh”* means **God’s plan or expression 
 
 #### **Textual Overview**
 
-> *“Although He existed in the form of God, \[He] did not regard equality with God a thing to be grasped, but emptied Himself...”* (Phil 2:6–7, NASB1995)
+> *“Although He existed in the form of God, \[He] did not regard equality with God a thing to be grasped, but emptied Himself...”* (Phil 2:6–7)
 
 #### **Trinitarian Interpretation**
 
@@ -345,7 +345,7 @@ The key contrast is not between divine and human nature, but between **self-glor
 
 #### **Textual Overview**
 
-> *“He is the image of the invisible God, the firstborn of all creation. For by Him all things were created...”* (Col 1:15–16, NASB1995)
+> *“He is the image of the invisible God, the firstborn of all creation. For by Him all things were created...”* (Col 1:15–16)
 
 #### **Trinitarian Interpretation**
 
@@ -363,7 +363,7 @@ Additionally, “in Him,” “through Him,” and “for Him” are **functiona
 
 #### **Textual Overview**
 
-> *“...in these last days has spoken to us in His Son... through whom also He made the world. And He is the radiance of His glory and the exact representation of His nature...”* (Heb 1:2–3, NASB1995)
+> *“...in these last days has spoken to us in His Son... through whom also He made the world. And He is the radiance of His glory and the exact representation of His nature...”* (Heb 1:2–3)
 
 #### **Trinitarian Interpretation**
 
