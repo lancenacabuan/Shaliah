@@ -199,62 +199,90 @@ This legal-cultural norm formed a key part of the **Second Temple Jewish worldvi
 
 ### **4.2 Agency in the Hebrew Bible and Jewish Tradition**
 
-Agency is embedded throughout the Hebrew Scriptures:
+The Old Testament frequently employs the law of agency. Agents of God—whether human or angelic—often act, speak, and are addressed as if they were God Himself. Yet they remain **creatures, not the Creator**.
 
-* **Moses** acts as God’s agent before Pharaoh. Though God says, *“I will be with your mouth”* (Exod 4:12), it is Moses who speaks and performs signs.
-* **Angels** appear and speak as if they are God, using first-person language (cf. Gen 22:11–12, Exod 3:2–6). This is not because they are divine, but because they are **authorized agents**.
-* **Prophets** routinely declare *“Thus says the LORD”*, functioning as God’s voice to the people.
+#### **Moses as “God” to Pharaoh and Aaron**
 
-In each case, the agent is distinct from the sender but shares the **sender’s authority**. This concept was well understood in Jesus’ time and became a central legal assumption in rabbinic Halakhah, particularly in relation to **covenants, marriages, legal disputes**, and **temple service**.
+In **Exodus 4:16**, God tells Moses regarding Aaron:
+
+> *“He shall be as a mouth for you, and you shall be as God to him.”*
+
+And again in **Exodus 7:1**:
+
+> *“See, I make you as God to Pharaoh, and your brother Aaron shall be your prophet.”*
+
+Moses is not divine, but he **functions as God's agent**, exercising His authority on earth. The language of divinity applied to Moses does not imply essence, but **representation**.
+
+#### **Human Judges and Kings Called “gods”**
+
+Psalm 82 refers to unjust human judges:
+
+> *“I said, ‘You are gods, and all of you are sons of the Most High.’ Nevertheless you will die like men...”* (Ps 82:6–7)
+
+These “gods” (*elohim*) were mortal rulers entrusted with administering divine justice. Their divine title reflects **delegated authority**, not divine nature. The same applies to the Davidic king in Psalm 45:
+
+> *“Your throne, O God, is forever and ever...”* (Ps 45:6)
+
+Yet the next verse clarifies:
+
+> *“Therefore God, Your God, has anointed You...”* (Ps 45:7)
+
+Even the one called “God” has a God over him—underscoring **representational status**.
+
+#### **Angels and the Angel of the LORD**
+
+Angels often act on God's behalf and speak in His voice:
+
+* In **Genesis 22:11–12**, the angel of the LORD says, *“You have not withheld your son... from Me.”*
+* In **Exodus 3:2–6**, the angel in the burning bush declares, *“I am the God of your father.”*
+
+These examples reflect a **known literary and theological pattern**: the **agent speaks as the sender**, and the **authority of God is manifested through His messengers**, without confusing their identity with His.
 
 ---
 
 ### **4.3 Jesus as the Supreme Agent of God**
 
-When we examine Jesus through this lens, the parallels are striking. The Gospel of John, for example, is saturated with **agency language**:
+Against this rich background of agency, Jesus’ words in the Gospels become clear:
 
-* **John 5:30** – *“I can do nothing on My own initiative... I do not seek My own will, but the will of Him who sent Me.”*
-* **John 7:16** – *“My teaching is not Mine, but His who sent Me.”*
-* **John 8:28–29** – *“I do nothing on My own initiative... I always do the things that are pleasing to Him.”*
-* **John 14:9** – *“He who has seen Me has seen the Father.”*
+* *“I can do nothing on My own initiative... I do not seek My own will, but the will of Him who sent Me.”* (John 5:30)
+* *“My teaching is not Mine, but His who sent Me.”* (John 7:16)
+* *“He who has seen Me has seen the Father.”* (John 14:9)
 
-These statements do not imply ontological unity or co-equality, as in Trinitarianism. Rather, they reflect the **agency principle**: the Son fully represents the One who sent Him. As the supreme *Shaliah*, Jesus acts with **delegated authority**. His unity with the Father is one of **will, purpose, and mission**, not essence.
-
-In **John 10:36**, Jesus defends Himself against charges of blasphemy by saying:
-
-> *“...do you say of Him, whom the Father sanctified and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’?”*
-
-Here, **being the Son of God** is equated with **being sent and sanctified** by God—not being equal to God.
+These are **agency claims**, not assertions of ontological unity. Jesus functions as the *shaliach* of God par excellence—**sanctified, sent, obedient**, and **invested with divine authority**. His authority stems from His commissioning (*John 10:36*), not from innate divinity.
 
 ---
 
-### **4.4 Apostles and Agency in the New Testament**
+### **4.4 Jesus’ Defense in John 10: Quoting Psalm 82**
 
-The term **apostle** (Greek: *apostolos*) literally means “one who is sent,” aligning directly with the Hebrew *Shaliah*. Just as Jesus is the **sent one** of the Father, the apostles are the **sent ones of Christ**. Jesus says in **John 20:21**:
+When accused of blasphemy in **John 10:33** for claiming to be the Son of God, Jesus responds:
 
-> *“As the Father has sent Me, I also send you.”*
+> *“Has it not been written in your Law, ‘I said, you are gods’? If he called them gods, to whom the word of God came... do you say of Him, whom the Father sanctified and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’?”* (John 10:34–36)
 
-This parallel underscores the logic of representation. The apostles are not Jesus in essence, but they represent Him fully. In the same way, **Jesus is not the Father**, but He represents the Father with complete faithfulness. **Agency explains authority without collapsing distinctions.**
+Jesus does not assert equality with God; He appeals to **Scriptural precedent**. If **human judges** could be called “gods” due to their representative role, **how much more fitting** is it for **Him**, whom the Father sanctified and sent, to be called **Son of God**?
+
+This argument aligns perfectly with the **agency model**—Jesus is not claiming deity, but **divine commissioning** and authority.
 
 ---
 
-### **4.5 The Agency Model vs. Ontological Trinity**
+### **4.5 Apostolic Continuation of Agency**
 
-Trinitarian theology often appeals to the unity between the Father and the Son as evidence of shared essence. However, **functional unity** is not the same as **ontological identity**. In the Jewish world, an agent could:
+After His resurrection, Jesus extends His agency model to His disciples:
 
-* Speak in the name of the sender.
-* Represent the sender legally and relationally.
-* Act with full authority, yet remain a separate being.
+> *“As the Father has sent Me, I also send you.”* (John 20:21)
 
-Biblical Unitarianism contends that all divine-sounding language about Jesus—such as *“I and the Father are one”* (John 10:30) or *“He who has seen Me has seen the Father”* (John 14:9)—is best interpreted as **representative language**, not metaphysical identity.
+Just as Jesus was **not the Father** but **represented Him**, so the apostles are not Jesus but **represent Him**. This **chain of agency** maintains a clear distinction of persons while preserving unity in mission and message.
 
-Jesus perfectly reveals the Father because He is the **chosen, obedient agent**, not because He shares the divine essence.
+---
+
+### **4.6 Agency vs. Ontological Trinitarianism**
+
+Trinitarian theology interprets Jesus’ unity with the Father as ontological (shared being). But in Second Temple Judaism, **functional unity through agency** was already well established. Understood this way, Jesus’ statements—*“I and the Father are one”* (John 10:30), or *“He who has seen Me has seen the Father”* (John 14:9)—become powerful affirmations of **representational fidelity**, not metaphysical identity.
 
 ---
 
 ### **Jesus as the Faithful Divine Agent**
 
-The Jewish law of agency offers a historically and culturally grounded framework for understanding Jesus’ role as **the fully authorized representative of God**. Within this context, Jesus can speak and act as God without being God Himself. This framework supports a **Biblical Unitarian reading of Christology**, preserving monotheism while honoring Jesus’ unique authority, obedience, and mission.
+The Jewish law of agency provides a compelling and coherent framework for understanding Jesus’ unique relationship to God. Like Moses, angels, and righteous kings before Him, Jesus bears divine authority because He is **sent**, **sanctified**, and **obedient**—not because He is **divine in essence**. But unlike any before Him, He is **perfect in His representation**, fully revealing God’s will, nature, and purpose. As the **faithful divine agent**, Jesus is worthy of all honor—**to the glory of the one true God, the Father**.
 
 As we now move into **Chapter 5**, we will compare how both the Trinitarian and Unitarian models interpret major Christological texts. These case studies will further test whether **agency and wisdom** provide adequate tools for understanding the New Testament witness—or whether Trinitarian conclusions are exegetically necessary.
 
