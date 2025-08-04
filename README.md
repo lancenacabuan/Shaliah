@@ -16,11 +16,15 @@ The findings suggest that the **Biblical Unitarian model offers greater consiste
 
 The doctrine of the Trinity, as understood in historic orthodoxy, did not emerge fully formed in the earliest days of the Church. Rather, it developed over several centuries, shaped by a combination of scriptural interpretation, philosophical influence, theological necessity, and ecclesiastical conflict. This chapter explores the formation of Trinitarian Christology within its historical context, assessing how the church came to affirm that Jesus Christ is consubstantial with the Father, eternally preexistent, and fully divine. It also raises the critical question: Did this theological trajectory remain faithful to the monotheistic foundation of Second Temple Judaism, or did it adopt categories foreign to the biblical worldview?
 
+---
+
 ### **1.1 The Jewish Roots of Early Christian Monotheism**
 
 The earliest Christians were Jews, deeply rooted in the monotheistic framework of the Shema: *“Hear, O Israel! The Lord is our God, the Lord is one!”* (Deut 6:4). For them, there was no division within the Godhead; God was one person, not a plurality of persons sharing a single essence. This foundational truth shaped their understanding of God's actions in creation, redemption, and revelation.
 
 Jesus’ own statements, such as *“My Father is greater than I”* (John 14:28) and *“This is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent”* (John 17:3), reflect a clear distinction between Himself and God. Early preaching in Acts likewise maintained this monotheistic clarity: *“Men of Israel, listen to these words: Jesus the Nazarene, a man attested to you by God with miracles...”* (Acts 2:22). These proclamations speak of Jesus as God's agent, not God Himself.
+
+---
 
 ### **1.2 The Emergence of Logos Theology**
 
@@ -28,11 +32,15 @@ As Christianity spread into the Gentile world, engagement with Greco-Roman thoug
 
 Early Christian thinkers, notably Justin Martyr, began to apply this concept to Jesus. In his *Dialogue with Trypho*, Justin identifies Jesus as the *pre-existent Logos*, generated from the Father before creation. Though still subordinated to the Father in some respects, this Logos was increasingly seen as divine in essence. This laid the foundation for **Logos Christology**, where Jesus is portrayed as the preexistent divine Word who became incarnate (cf. John 1:1–14).
 
+---
+
 ### **1.3 The Road to Nicaea: Doctrinal Crystallization**
 
 The third and fourth centuries saw intensifying debates about Jesus' nature, particularly in relation to the Father. **Arius**, a presbyter from Alexandria, argued that Jesus, though exalted, was a created being—*“there was a time when he was not.”* This position, though reflecting certain subordinationist elements present in earlier theology, was seen as a threat to Christ’s divinity.
 
 In response, the **Council of Nicaea** (AD 325) affirmed that the Son is *homoousios*—“of the same substance” as the Father. The Nicene Creed declared Jesus to be *“God from God, Light from Light, true God from true God.”* This language marked a sharp turn from Jewish monotheism into ontological formulations using Greek metaphysics. The **Council of Constantinople** (AD 381) further solidified Trinitarianism by formalizing the divinity of the Holy Spirit, thus completing the threefold formula.
+
+---
 
 ### **1.4 Post-Nicene Developments and Institutional Enforcement**
 
@@ -42,7 +50,7 @@ Yet, these formulations came at a cost. In many respects, they departed from the
 
 ---
 
-### **Jesus as the Creedal Constructed Son**
+### **Jesus as the Second Person of the Trinity**
 
 The doctrine of the Trinity, though now considered central to mainstream Christianity, developed incrementally and contentiously. While Trinitarian Christology emerged in part as a defense of Jesus’ exalted status, it also relied heavily on philosophical categories foreign to Jewish thought. This raises the question: Was the early Jewish understanding of Jesus as God’s anointed representative overwritten by Hellenistic theology? The following chapters will explore whether **Biblical Unitarianism**, rooted in Jewish frameworks such as wisdom literature and agency law, better preserves the biblical witness to Jesus’ identity.
 
