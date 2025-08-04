@@ -248,7 +248,7 @@ Against this rich background of agency, Jesus’ words in the Gospels become cle
 * *“My teaching is not Mine, but His who sent Me.”* (John 7:16)
 * *“He who has seen Me has seen the Father.”* (John 14:9)
 
-These are **agency claims**, not assertions of ontological unity. Jesus functions as the *shaliach* of God par excellence—**sanctified, sent, obedient**, and **invested with divine authority**. His authority stems from His commissioning (*John 10:36*), not from innate divinity.
+These are **agency claims**, not assertions of ontological unity. Jesus functions as the *shaliah* of God par excellence—**sanctified, sent, obedient**, and **invested with divine authority**. His authority stems from His commissioning (*John 10:36*), not from innate divinity.
 
 ---
 
