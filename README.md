@@ -86,7 +86,7 @@ In this view, the Bible consistently presents **God as a single person,
 the Father**, and Jesus as the **Messiah, God's Son, but not God**
 Himself[\[4\]](https://en.wikipedia.org/wiki/Biblical_unitarianism#:~:text=that%20Jesus%20was%20himself%20God.,7).
 The term \"Biblical Unitarian\" is a relatively modern designation
-(arising in the 19th--20th centuries to distinguish scripturally-focused
+(arising in the 19th–20th centuries to distinguish scripturally-focused
 Unitarians from more liberal Unitarian
 movements)[\[5\]](https://en.wikipedia.org/wiki/Biblical_unitarianism#:~:text=being%20%2C,citation%20needed)[\[6\]](https://en.wikipedia.org/wiki/Biblical_unitarianism#:~:text=A%20few%20denominations%20%20use,1),
 but it harkens back to earlier nontrinitarian Christian theologies such
@@ -110,7 +110,7 @@ opposing unitarian readings then condemned as
 heretical[\[10\]](https://en.wikipedia.org/wiki/Biblical_unitarianism#:~:text=God%20as%20three%20co,to%20be%20labeled%20as%20heretical)[\[11\]](https://en.wikipedia.org/wiki/Biblical_unitarianism#:~:text=doctrine%20from%20the%20second%20century,of%20Constantinople%20in%20381%20CE).
 
 A distinguishing feature of this dissertation is the **contextual lens**
-through which the Trinitarian and Unitarian views will be compared --
+through which the Trinitarian and Unitarian views will be compared –
 namely, the concepts drawn from **Hebrew Wisdom literature and the
 Jewish law of agency**. Both of these were prominent in Second Temple
 Jewish theology and later contributed to Christian thought:
@@ -144,7 +144,7 @@ Jewish theology and later contributed to Christian thought:
     sender. Biblical examples include patriarchal emissaries and the
     figure of the Angel of the Lord who speaks for God. The New
     Testament, especially the Gospel of John, portrays Jesus repeatedly
-    as the one **sent by the Father** (e.g. John 5:30, 7:16, 12:49) --
+    as the one **sent by the Father** (e.g. John 5:30, 7:16, 12:49) –
     an idea that resonates strongly with the agency concept. This study
     will investigate how the law of agency provides a framework for
     understanding Jesus' relationship to God: Trinitarians might see
@@ -216,7 +216,7 @@ Before that point, early Christian thinkers expressed various
 interpretations of the relationship between Father, Son, and Holy
 Spirit. For example, second-century apologists like **Justin Martyr**
 articulated a *Logos Christology* in which the Son (as the pre-existent
-Logos or divine Word) was distinct from and subordinate to the Father --
+Logos or divine Word) was distinct from and subordinate to the Father –
 *"the one God is not the three, but rather one of them and the primary
 one, the ultimate source of the second and third,"* as Justin's triadic
 theology was
@@ -253,7 +253,7 @@ Christology was a product of development*–one that its proponents see
 as a faithful unfolding of biblical truth, and its critics see as an
 accretion of extraneous ideas. We will engage with patristic primary
 sources (e.g. Athanasius' **Orations Against the Arians**, which devote
-extensive attention to Proverbs 8:22--31 in refuting
+extensive attention to Proverbs 8:22–31 in refuting
 Arius[\[18\]](https://witness.lcms.org/2021/parsing-the-proverbs-with-st-athanasius/#:~:text=One%20might%20think%20that%20the,Athanasius%20on%20Proverbs%208)[\[19\]](https://witness.lcms.org/2021/parsing-the-proverbs-with-st-athanasius/#:~:text=Now%2C%20it%20is%20striking%20the,1%3A24))
 and modern analyses (e.g. R.P.C. Hanson's *The Search for the Christian
 Doctrine of God*, J.N.D. Kelly's *Early Christian Doctrines*) to trace
@@ -350,7 +350,7 @@ Testament. Seminal studies by scholars like **Gerhard von Rad** and
 *Wisdom* (Greek *Sophia*, Hebrew *Chokmah*) in texts like Proverbs 8 or
 *Wisdom of Solomon* and language used of Christ in the New Testament.
 For instance, Dunn (in *Christology in the Making*) famously discussed
-how Philippians 2:6--11 and Colossians 1:15--20 might reflect earlier
+how Philippians 2:6–11 and Colossians 1:15–20 might reflect earlier
 hymns that equated Christ with Wisdom's role in creation and redemption,
 yet he questioned whether the earliest Christians understood this in
 terms of literal pre-existence or rather as metaphoric personification.
@@ -380,7 +380,7 @@ writers identified Jesus with a pre-existent divine entity
 employed metaphor and personification–Jesus *is* God's wisdom in
 action, without implying he literally pre-existed as a second divine
 person. We will review key wisdom texts (Proverbs 8, Sirach 24, Baruch
-3--4, Wisdom of Solomon 7--9) and their interpretations. Primary sources
+3–4, Wisdom of Solomon 7–9) and their interpretations. Primary sources
 like** Philo of Alexandria **(the Hellenistic Jewish philosopher) will
 also be consulted; Philo's works (e.g. *On the Creation*, *On the
 Confusion of Tongues*) famously fuse Jewish wisdom concepts with Stoic
@@ -423,7 +423,7 @@ agents of God: for example, the **Angel of the Lord** often speaks in
 the first person as God, and is even addressed as God, yet presumably
 this is understood as the angel bearing God's name and authority (not
 that the angel is literally the Almighty). Another example is **Moses**
--- in Exodus 7:1, God tells Moses, "See, I have made you *God to
+– in Exodus 7:1, God tells Moses, "See, I have made you *God to
 Pharaoh*," meaning Moses stood in God's stead as His representative. In
 the **Encyclopedia of the Jewish Religion**, the entry on "Agent"
 confirms that *"the main point of the Jewish law of agency is expressed
@@ -473,7 +473,7 @@ author of the act
 performed."*[\[44\]](https://www.eventleaf.com/Attendee/Attendee/ViewSessionDocument?eId=Z41HfT5waIfRkDKzGKeXwA%3D%3D&sdId=CBL3BFFMr3aUJVU%2FWmUX7Q%3D%3D#:~:text=to%20reflect%20the%20status%20belonging,42),
 and we will see how this plays out in understanding Christ's mission.
 
-In summary, the existing literature spans multiple disciplines --
+In summary, the existing literature spans multiple disciplines –
 biblical exegesis, historical theology, Second Temple Jewish studies,
 and even philosophy of religion–each shedding light on aspects of our
 topic. This dissertation draws on these rich scholarly resources,
@@ -763,7 +763,7 @@ be fully divine if the Father is the one God? The resolution in orthodox
 theology would be the concept of **one God in multiple persons**; but
 getting there required development.
 
-### 2. Apostolic Fathers and Apologists (1st--3rd Centuries): Logos Theology and Subordination within the Godhead
+### 2. Apostolic Fathers and Apologists (1st–3rd Centuries): Logos Theology and Subordination within the Godhead
 
 Moving beyond the New Testament era, we consider the generation of
 leaders and writers immediately after the apostles–often called the
@@ -916,7 +916,7 @@ the Son of God, while exalted, was not co-eternal with the Father.
 Arius's famous slogan was "**there was a time when the Son was not**,"
 meaning the Son is a creature made by the Father, not an eternal being
 equal to Him. Arius did call the Son *"God"*, but in a secondary sense
--- a demigod or divine agent through whom the Father made the universe.
+– a demigod or divine agent through whom the Father made the universe.
 In Arius's view, to protect the absolute uniqueness of the unbegotten
 Father, the Son must be subordinate and have an origin (begotten/created
 before time). This teaching alarmed Alexander, the bishop of Alexandria,
@@ -1104,7 +1104,7 @@ Nonetheless, the core ideas associated with this view have precedent in
 earlier Christian history under different labels (e.g., **Adoptionism**,
 **Socinianism**). For clarity, we will use "Biblical Unitarian"
 (capitalized) to refer to the theology in its contemporary understanding
--- i.e., a Christology where Jesus is a man, uniquely related to God,
+– i.e., a Christology where Jesus is a man, uniquely related to God,
 but not an eternal deity–and "unitarian" (lowercase) to refer to
 generic nontrinitarian concepts in history.
 
@@ -1253,7 +1253,7 @@ that identify the Father alone as God, are foundational:
     the Father, from whom are all things\... and one Lord, Jesus Christ,
     through whom are all things."* They emphasize the one God is
     specifically the Father. Some might add that in the same context
-    Paul says "there are many 'gods' and many 'lords' but for us\..." --
+    Paul says "there are many 'gods' and many 'lords' but for us\..." –
     thus clarifying that in Christian understanding, *God* refers to the
     Father, while *Lord* (as a Messianic title) refers to Jesus. They
     often note that "Lord" (Greek *Kyrios*) can be a broad term not
@@ -1469,7 +1469,7 @@ They often highlight the following points:
     the Father alone was without beginning, and that in effect makes
     only the Father the true God. Some modern Unitarians may feel a bit
     of kinship with Arians in opposing Nicaea, but differ in that Arians
-    did call Jesus a pre-existent divine (albeit created) being --
+    did call Jesus a pre-existent divine (albeit created) being –
     something modern "Biblical Unitarians" usually reject (they tend to
     align more with Socinus in saying no conscious pre-existence).
 -   During the post-Reformation era (16th century onward),
@@ -1681,7 +1681,7 @@ In Colossians 1:15-17, as earlier described, the poetic lines about
 Christ closely parallel descriptions of Wisdom as firstborn and agent of
 creation. And Hebrews 1:2-3 explicitly states the Son is the one through
 whom God made the worlds and who is the radiance of God's
-glory---concepts directly reminiscent of Wisdom of
+glory–-concepts directly reminiscent of Wisdom of
 Solomon[\[31\]](https://tips.translation.bible/story/translation-commentary-on-wisdom-726/#:~:text=For%20she%20is%20a%20reflection,and%20light%20being%20reflected).
 
 -   **Statements by Church Fathers:** The second-century fathers like
@@ -1818,7 +1818,7 @@ supports a non-divine Christology:
     became Jesus.
 
 -   Unitarians often say: *What pre-existed was not the Son as an actual
-    person, but the* *plan or word of God* **-- God\'s foreknowledge and
+    person, but the* *plan or word of God* **– God\'s foreknowledge and
     intent. This is sometimes called the** "Logos as plan" **theory.
     John\'s "the Word was with God" means God\'s self-expression (His
     word/wisdom) was with Him (in His mind) from the beginning. "The
@@ -2370,7 +2370,7 @@ Testament says about Jesus. They typically respond:
 -   They concede that **agency is part of the picture**–Jesus *did*
     act as representative, saying only what the Father says (which also
     correlates with Trinitarian *doctrine of Trinity* where the Son and
-    Spirit in Trinity eternally proceed and speak not on their own --
+    Spirit in Trinity eternally proceed and speak not on their own –
     there\'s this notion of relational order). But they contend the
     reason Jesus could be the perfect agent is because he is of the same
     nature and intimately one with the Father. A merely human agent,
@@ -2387,7 +2387,7 @@ Testament says about Jesus. They typically respond:
 -   **Use of the term "agent" in church history**: Some early
     anti-trinitarians (like the *Dynamic Monarchians* in 3rd century)
     essentially said Christ was a man empowered as God's agent. They
-    were deemed heretical (Paul of Samosata's teaching is one example --
+    were deemed heretical (Paul of Samosata's teaching is one example –
     he basically said Jesus was a mere man inspired by Logos but not
     Logos incarnate; he liked the term \"Shaliach\" conceptually too).
     The mainstream church rejected this as insufficient to account for
@@ -2397,7 +2397,7 @@ Trinitarians also might caution that the human analogy of agency has
 limits: a human agent is separate and acting externally, but the Son is
 described as being *in* the Father and vice versa. That mutual
 indwelling (John 14:10) might be beyond any typical agent relationship
--- sounding more like a metaphysical unity. They thus see *shaliach* as
+– sounding more like a metaphysical unity. They thus see *shaliach* as
 a useful concept (indeed some commentaries mention it to explain John\'s
 "sent" language), but only as part of the truth. Jesus is agent *and*
 Son *and* Word incarnate.
@@ -2478,7 +2478,7 @@ We have delved into the theological specifics of church-traditional
 Trinitarianism and Biblical Unitarianism, including their approaches to
 Hebrew Wisdom literature and the law of agency. Now, we step back to
 analyze these two Christological paradigms in a broader historical and
-religious context: that of **Second Temple Judaism** (roughly 516 BC --
+religious context: that of **Second Temple Judaism** (roughly 516 BC –
 70 AD, the period of Jewish history into which Jesus was born) and the
 **early church** of the first few centuries AD. This comparative
 analysis will highlight how each view relates to Jewish monotheism of
@@ -2773,7 +2773,7 @@ etc.).
 
 ### 6. Summary of Comparative Outcomes
 
-**Consistency with Jewish context:** - **Unitarian Christology** --
+**Consistency with Jewish context:** - **Unitarian Christology** –
 highly consistent with Jewish monotheism; Jesus as Messiah doesn't
 violate that, similar to how prophets and kings could be revered but not
 deified. It doesn't require a Jew to accept a second divine person, just
@@ -2861,8 +2861,8 @@ we discuss several key implications:
 ### 1. Intra-Christian Considerations: Unity and Diversity of Belief
 
 **Denominational Perspectives:** Today, the vast majority of Christian
-denominations---Catholic, Eastern Orthodox, Protestant (including
-Evangelical, Reformed, Anglican, Pentecostal, etc.)---affirm the Nicene
+denominations–-Catholic, Eastern Orthodox, Protestant (including
+Evangelical, Reformed, Anglican, Pentecostal, etc.)–-affirm the Nicene
 Trinity and the Chalcedonian definition of Christ's two natures as core
 doctrine. On the other hand, there are smaller groups explicitly
 rejecting the Trinity: - Historic Unitarian churches (like the Unitarian
@@ -2901,7 +2901,7 @@ Trinity essential for salvation or fellowship? Historically the church
 said yes (hence creeds), but some modern Christians emphasize living
 faith in Christ over strict doctrinal tests. For instance, many lay
 Christians might not fully grasp or articulate the Trinity but have a
-relational trust in God and Christ---are they outside grace? Likely not.
+relational trust in God and Christ–-are they outside grace? Likely not.
 This opens a door to consider: could Biblical Unitarians be accepted as
 fellow Christians if they exhibit genuine faith in God and Christ as
 Savior (albeit understanding Christ differently)? This is an ongoing
@@ -3037,7 +3037,7 @@ cannot syncretize with Christianity easily is this deification of Jesus
 from their view). - Biblical Unitarian theology, if it were more known,
 might serve as a bridge in some cases for Jews intrigued by Jesus but
 not willing to accept the Trinity. It could present a Christianity that
-looks more like what the **Nazareans/Ebionites** may have believed --
+looks more like what the **Nazareans/Ebionites** may have believed –
 which a Jew might consider as Jesus being a revered prophet of the one
 God (some even view him as such without converting). However, a Jew
 converting to any form of Christianity is rare and often the Trinity is
@@ -3264,7 +3264,7 @@ Father, co-equal and co-eternal, to safeguard both God's oneness and the
 full deity of Christ attested in Christian worship and
 experience[\[2\]](https://en.wikipedia.org/wiki/Trinitarianism_in_the_Church_Fathers#:~:text=Some%20of%20the%20evidence%20used,equal%20persons%20%28hypostaseis%29.%5B%201)[\[16\]](https://en.wikipedia.org/wiki/Trinitarianism_in_the_Church_Fathers#:~:text=Some%20Trinitarians%20say%20the%20doctrine,Trinitarian%2C%20partially%20Trinitarian%27.%5B%208).
 Trinitarian Christology thus presents Jesus as **God the Son Incarnate**
--- the eternal Wisdom/Logos who was with God and was God, and who became
+– the eternal Wisdom/Logos who was with God and was God, and who became
 flesh for our
 salvation[\[33\]](https://plato.stanford.edu/entries/trinity/trinity-history.html#:~:text=A%20direct%20influence%20on%20second,Philo%20Works%3B%20Dillon%201996)[\[14\]](https://plato.stanford.edu/entries/trinity/trinity-history.html#:~:text=philosophers%20received%20their%20wisdom%20from,of%20the%20second%20and%20third).
 
@@ -3355,7 +3355,7 @@ explanation was in
 place[\[46\]](https://ntslibrary.com/Pauls%20Christology%20of%20Divine%20Identity.pdf#:~:text=Jewish%20monotheism%2C%20some%20argue%20that,radical%20break%20with%20Jewish%20monotheism)[\[28\]](https://ntslibrary.com/Pauls%20Christology%20of%20Divine%20Identity.pdf#:~:text=figures%20,was%20therefore%20by%20no%20means). -
 Biblical Unitarianism aligns more comfortably with **Jewish theological
 categories**. It portrays Christianity as adhering to the unipersonal
-God concept and treating Jesus as Messiah---exalted, yes, but still a
+God concept and treating Jesus as Messiah–-exalted, yes, but still a
 human servant of God. Historically, groups with Unitarian-like beliefs
 (Ebionites, Theodotians, Socinians, etc.) were often marginalized as
 heretical by the dominant church, but their existence demonstrates that
@@ -3409,8 +3409,8 @@ In bringing this exploration to a close, we acknowledge that the
 stance and the Biblical Unitarian stance both attempt to be faithful to
 Scripture and the apostolic testimony, yet they arrive at very different
 portraits of how Jesus reveals God. Our study does not purport to solve
-this age-old debate in one stroke---indeed, these questions have
-occupied the finest minds in the church for millennia---but it has aimed
+this age-old debate in one stroke–-indeed, these questions have
+occupied the finest minds in the church for millennia–-but it has aimed
 to **illuminate the key issues and evidence**. We have preserved the
 voices of Scripture (from Deuteronomy's ringing monotheism to Thomas's
 exclamation "My Lord and my
@@ -3428,13 +3428,13 @@ Traditional Trinitarian answer is: *"You are God the Son, one of the
 Holy Trinity, worthy of the same worship as the Father."* The Biblical
 Unitarian answer is: *"You are the Christ, the Son of the living God,
 uniquely representing the one Father."* Both responses seek to glorify
-Jesus---in the first, by lifting him into the Godhead, and in the
+Jesus–-in the first, by lifting him into the Godhead, and in the
 second, by fully acknowledging his God-given authority and role as
 Savior while keeping the Godhead singular. Both recognize him as **Lord
 and Messiah**; both assert that our salvation and hope are found in him.
 
 In the spirit of academic and spiritual humility, we conclude that
-further dialogue---guided by Scripture, history, and love---can perhaps
+further dialogue–-guided by Scripture, history, and love–-can perhaps
 lead to deeper insight. The church might learn from the Biblical
 Unitarian emphasis on the oneness of God and the real humanity of Jesus,
 even as it holds to the Trinitarian intuition that in Jesus we encounter
@@ -3445,8 +3445,8 @@ without being straightway carried back to the
 One."*[\[16\]](https://en.wikipedia.org/wiki/Trinitarianism_in_the_Church_Fathers#:~:text=Some%20Trinitarians%20say%20the%20doctrine,Trinitarian%2C%20partially%20Trinitarian%27.%5B%208).
 And as the Apostle Paul wrote of Christ: *"In him are hidden all the
 treasures of wisdom and knowledge"* (Col 2:3). May our continued study
-and reflection on Jesus Christ---whether through the lens of Triune
-mystery or Unitarian clarity---lead us to a greater reverence for God, a
+and reflection on Jesus Christ–-whether through the lens of Triune
+mystery or Unitarian clarity–-lead us to a greater reverence for God, a
 more faithful reading of His Word, and a more Christ-like life of love.
 
 ## References
