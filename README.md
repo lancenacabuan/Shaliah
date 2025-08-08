@@ -1,4 +1,4 @@
-# Church-Traditional Trinitarianism vs. The Biblical Unitarian View of Jesus Christ in the Context of Hebrew Wisdom-Literature Christology and the Jewish Law of Agency
+# Church–Traditional Trinitarianism vs. the Biblical Unitarian View of Jesus Christ in the Context of Hebrew Wisdom-Literature Christology and the Jewish Law of Agency
 
 ## Abstract
 
