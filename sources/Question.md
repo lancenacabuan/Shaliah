@@ -1,19 +1,21 @@
-# What interpretive framework should guide New Testament Christology?
+# What first-century Jewish evidence requires us to interpret Jesus’ exalted status as ontological deity rather than as supreme delegated agency?
 
-Before citing traditional Trinitarian proof texts (e.g., John 1:1,14; John 8:58; John 20:28; Philippians 2:6–11; Colossians 1:15–17; Hebrews 1; Titus 2:13), we must ask a prior historical and methodological question. Since both Trinitarian and Unitarian scholars agree that these passages require interpretation rather than functioning as self-evident doctrinal statements, what framework should govern our reading?
+The New Testament repeatedly presents Jesus in a sender-agent relationship: the Father sends him, gives him words, grants him authority, raises him from the dead, exalts him, appoints him Lord, and makes him mediator and judge. In this pattern, God remains the ultimate source, while Jesus functions as the uniquely authorized Messiah through whom God acts. This fits naturally within Jewish agency logic, where a commissioned representative may bear the sender’s authority, speak in the sender’s name, and receive honor on behalf of the sender.
 
-If sound exegesis begins by situating a text within its original linguistic, cultural, religious, and conceptual environment, should we first employ categories available to first-century Jewish authors and audiences—before applying later theological frameworks shaped by post-biblical creeds and Greco-Roman metaphysics?
+At the same time, Second Temple Jewish Wisdom and Word traditions already allowed God’s wisdom, purpose, and self-expression to be personified in elevated language without requiring belief in a second co-equal divine person. Wisdom could be described as coming from God, dwelling among people, participating in creation, and revealing God, while still functioning as God’s own wisdom rather than another person within God’s being.
 
-In Second Temple Judaism:
+So the question is this:
 
-- The law of agency (shaliah) allowed an authorized representative to bear the sender’s name, authority, words, judgment, and honor.
+What specific New Testament text compels us to move beyond these already-available Jewish categories of agency, Wisdom, exaltation, and divine representation, and instead conclude that the apostles were teaching that Jesus is ontologically God, co-equal and co-eternal with the Father?
 
-- Wisdom traditions personified God’s Wisdom, Word, Spirit, and redemptive purpose without treating them as distinct divine persons.
+This question matters because many Trinitarian proof texts can be read within a Wisdom-agency framework. John 1 can be read as God’s creative Word/Wisdom embodied in Jesus. Philippians 2 can be read as the obedient Messiah being exalted by God. Colossians 1 can be read as Wisdom/new-creation language focused on Christ’s supremacy. Hebrews 1 can be read as royal and Wisdom language applied to the exalted Son. John 20:28 can be read as climactic representative confession within a Gospel that still calls the Father “the only true God.”
 
-Given this background, what evidence shows that the earliest Jewish disciples understood Jesus’ divine titles, authority, glory, and functions as proof of ontological deity—rather than as expressions of agency and Wisdom Christology?
+Therefore, before appealing to later creedal language, the Trinitarian needs to answer:
 
-If agency traditions already explain how God’s representative can speak and act in God’s name, and Wisdom traditions already explain how God’s eternal purpose can be embodied in human life, what specific text demonstrates that the apostles abandoned these frameworks and redefined Jewish monotheism to include Jesus as a co-equal, co-eternal divine person within a triune Godhead?
+By what objective first-century Jewish criterion do we distinguish “Jesus shares God’s authority as His supreme agent” from “Jesus shares God’s being as a co-equal divine person”?
 
-Put differently: before appealing to disputed proof texts whose meaning is contested, what objective first-century Jewish criterion allows us to distinguish between two conclusions—(1) Jesus is ontologically God Himself, or (2) Jesus is God’s uniquely authorized agent, Messiah, Son, and embodiment of divine Wisdom and salvation?
+If the answer depends on later categories such as “one essence,” “hypostasis,” “eternal Son,” “incarnation of a divine person,” or “two natures,” then the interpretation is no longer being derived directly from the New Testament’s own historical-conceptual world. It is being read through later theological development.
 
-If no such criterion can be shown from the conceptual world of Second Temple Judaism, on what historical or exegetical basis should later metaphysical conclusions be treated as the default reading of the New Testament, rather than as subsequent theological interpretations of it?
+Put sharply:
+
+If Jewish agency explains Jesus’ authority, Jewish Wisdom traditions explain his cosmic and revelatory language, and resurrection-exaltation explains his lordship, what exegetical necessity remains for identifying Jesus as ontologically God rather than as God’s uniquely authorized human Messiah?
