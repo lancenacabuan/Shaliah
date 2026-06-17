@@ -1,0 +1,13 @@
+# What Interpretive Framework Should Guide New Testament Christology?
+
+Before appealing to traditional Trinitarian proof texts, such as John 1:1,14; John 8:58; John 20:28; Philippians 2:6-11; Colossians 1:15-17; Hebrews 1; Titus 2:13; and similar passages, I would like to ask a prior historical, hermeneutical, and methodological question. Since both Trinitarian and Unitarian scholars acknowledge that these texts require interpretation rather than functioning as self-evident doctrinal statements, what interpretive framework should guide our reading of them?
+
+If sound exegesis first seeks to understand a text within its original linguistic, cultural, religious, and conceptual environment, should we begin with the categories available to first-century Jewish authors and audiences before applying later theological frameworks that developed through post-biblical creedal controversies and Greco-Roman metaphysical terminology?
+
+In Second Temple Judaism, the Jewish law of agency, or shaliah, allowed an authorized representative to bear the name, authority, words, judgment, and honor of the one who sent him. Likewise, Jewish Wisdom traditions could personify God's Wisdom, Word, Spirit, and redemptive purpose without treating them as distinct divine persons. Given these backgrounds, what evidence shows that the earliest Jewish disciples understood Jesus' divine titles, authority, glory, and functions as proof of ontological deity rather than as expressions of agency and Wisdom Christology?
+
+If agency traditions already explain how God's representative can speak and act in God's name, and Wisdom traditions already explain how God's eternal purpose, word, and wisdom can be embodied and manifested in a human life, what specific text explicitly teaches that the apostles abandoned these established Jewish interpretive frameworks and redefined Jewish monotheism to include Jesus as a co-equal, co-eternal divine person within a triune Godhead?
+
+Stated differently, before appealing to disputed proof texts whose meaning is the very issue under debate, what objective first-century Jewish criterion allows us to distinguish between two conclusions: that Jesus is ontologically God Himself, or that Jesus is God's uniquely authorized supreme agent, Messiah, Son, and embodiment of God's Wisdom and salvific purpose?
+
+If no such criterion can be demonstrated from the conceptual world of Second Temple Judaism itself, on what historical or exegetical basis should later metaphysical conclusions be treated as the default reading of the New Testament rather than as subsequent theological interpretations of it?
