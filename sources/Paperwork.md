@@ -1,6 +1,6 @@
 # God-Man or God's Man: Trinitarian and Biblical Unitarian Christologies in Light of Second Temple Wisdom and Agency
 
-## Framing the question and the historical-literary method
+## Problem Statement and Historical-Literary Methodology
 
 Traditional, church-dogmatic Trinitarianism, especially as formalized in the fourth and fifth centuries, confesses one God in three equally divine "Persons" and, by extension, confesses Jesus as ontologically God the Son who assumed a full human nature, the "God-man" claim. [<sup>[1]</sup>][src-1] The question posed here is whether that ontological claim is the most sensible inference from Israel's Scriptures, Second Temple Jewish thought and idiom, and the New Testament's own literary patterns, especially when the New Testament repeatedly depicts Jesus as God's commissioned representative, the "one sent," and when it draws heavily on Wisdom and Word traditions to speak about God's action in the world. [<sup>[2]</sup>][src-2]
 
@@ -8,7 +8,7 @@ A historically grounded approach begins by resisting later categories as control
 
 This study argues that the Biblical Unitarian reading, Jesus as God's truly human Messiah and uniquely empowered agent ("God's man"), not God in an ontological sense, offers a more context-sensitive, less anachronistic, and more internally coherent explanation of the New Testament's "high" language about Jesus. It does so by integrating two Second Temple frameworks: Wisdom/Word discourse as a way to speak about God's own self-expression and creative or redemptive activity, and agency (shaliah) as a way to speak about a sent representative who may bear the sender's authority, name, and prerogatives without being the sender by nature. [<sup>[5]</sup>][src-5]
 
-## Second Temple categories for "God present and acting": Wisdom, Word, and intermediary discourse
+## Second Temple Categories of Divine Immanence: Wisdom, Word, and Intermediary Discourse
 
 Second Temple Judaism inherited a deep commitment to the uniqueness of Israel's God while also developing rich ways of describing God's immanence through personified or hypostatized divine attributes such as Wisdom, Word, Presence, and other intermediary idioms. Classic scholarship on Aramaic and later Jewish traditions, including Memra or "Word" language, shows that intermediary language often arises as a reverent solution to biblical anthropomorphisms: Scripture depicts God "speaking," "walking," "dwelling," and "appearing," while later interpreters seek language that preserves divine transcendence without denying divine action in history. [<sup>[6]</sup>][src-6]
 
@@ -18,7 +18,7 @@ This Wisdom discourse also appears in other Second Temple streams. In 1 Enoch [<
 
 The Hellenistic Jewish philosopher Philo of Alexandria [<sup>[14]</sup>][src-14] illustrates both the potential and the limits of this discourse: he can speak of the Logos in ways that approach "second God" language while still treating the Logos as the means of God's ordering and knowability rather than as an independent rival deity. [<sup>[15]</sup>][src-15] The crucial point for Christology is not that all Jews believed in a "second divine person," but that many Jewish texts already used elevated, quasi-personal language for God's own self-expression in ways compatible with rigorous monotheistic devotion. [<sup>[16]</sup>][src-16]
 
-## Agency and representation: shaliah, "sent" Christology, and the biblical logic of delegated authority
+## Agency and Representation: Shaliah, Sent Christology, and the Logic of Delegated Authority
 
 Alongside Wisdom/Word discourse, Jewish tradition also developed a strong conceptual framework for authorized representation: the shaliah, or legal emissary. In later rabbinic formulation, the principle is succinct: "a person's agent is regarded as the person himself," stated explicitly in Mishnah Berakhot [<sup>[17]</sup>][src-17] 5:5. [<sup>[18]</sup>][src-18] Two cautions are necessary: first, the rabbinic sources are later than the New Testament; second, not every rabbinic legal detail can be assumed for the first century. Yet the logic they codify, authorized emissaries acting in the sender's name, fits long-standing ancient Mediterranean practices of envoy representation and is widely used by Johannine scholars because the Fourth Gospel is saturated with "sending" language and with claims that the Son does not act from himself but speaks and works what the Father authorizes. [<sup>[19]</sup>][src-19]
 
@@ -30,7 +30,7 @@ The New Testament itself explicitly foregrounds this "sent agent" relationship. 
 
 A Trinitarian counterargument deserves to be stated fairly: many Trinitarians insist that agency language in John does not exclude ontological deity; it simply describes the Son's mission within the Trinity, especially in incarnational or "economic" roles. [<sup>[27]</sup>][src-27] The Unitarian reply is that this move risks smuggling later metaphysics into the first-century texts. The New Testament's thick sender-agent rhetoric, coupled with its repeated "God raised him," "God exalted him," and "God gave him authority" patterns, fits agency naturally, whereas ontological equality plus functional subordination requires additional metaphysical distinctions that are not explicit in the apostolic proclamation itself. [<sup>[28]</sup>][src-28]
 
-## High Christology revisited through Wisdom and agency
+## High Christological Texts Reconsidered through Wisdom and Agency
 
 The central Unitarian claim in this study is not that the New Testament's christological language is "low," but that its "high" language is often Wisdom/Word language and agency language, forms of speech already at home in Second Temple Judaism, rather than direct metaphysical assertions that Jesus is ontologically identical with God. This can be tested case by case in the passages most commonly deployed as Trinitarian proof-texts.
 
@@ -48,7 +48,7 @@ A crucial set of "high" texts hinges on Greek syntax rather than narrative logic
 
 A fair Trinitarian counterargument is that early Christ-devotion practices, including prayer, worship language, and applying YHWH texts to Jesus, imply more than agency; they imply inclusion in divine identity. Yet Second Temple Judaism itself already provides categories for reverencing God's self-manifestation and honoring God's authorized representative without abandoning monotheism, precisely because honoring the agent can be construed as honoring the sender whose authority the agent bears. [<sup>[46]</sup>][src-46] The Unitarian claim is that agency plus Wisdom/Word idiom can account for both the exalted language and the persistent asymmetry: God sends, raises, exalts, and gives authority; Jesus obeys, receives, mediates, and is appointed. [<sup>[47]</sup>][src-47]
 
-## From apostolic proclamation to conciliar orthodoxy: why later Trinitarian metaphysics is not a neutral reading lens
+## From Apostolic Proclamation to Conciliar Orthodoxy: Later Trinitarian Metaphysics as an Interpretive Commitment
 
 Historically, the doctrinal form of Trinitarianism is not simply "what the New Testament says" repeated in different words; it is a specific theological synthesis hammered out in controversy, using technical terms such as homoousios, hypostasis, and "two natures" that were chosen precisely because earlier language was judged insufficiently precise to settle disputes. [<sup>[48]</sup>][src-48] Standard historical accounts emphasize that key fourth-century terminology was contested, that the Nicene settlement was not universally welcomed at the time, and that later theological development drew heavily on philosophical vocabularies available in the Greco-Roman intellectual environment. [<sup>[49]</sup>][src-49] This matters methodologically: if a doctrine is stabilized by later metaphysical decisions and technical language, then reading those same metaphysical decisions back into first-century Jewish texts is not automatically "the unbiased" reading; it is a theological commitment that must be argued for rather than assumed. [<sup>[50]</sup>][src-50]
 
@@ -56,7 +56,7 @@ At the same time, it is historically important not to romanticize Second Temple 
 
 A crucial conceptual bridge here is the Jewish notion that "pre-existence" can sometimes mean pre-ordination in God's plan rather than literal personal existence before birth. One prominent scholarly articulation of this Jewish pattern highlights that various things, including Torah, repentance, and even the Messiah's name, are spoken of as "pre-existent" in the sense of being established in God's intention from the beginning. [<sup>[53]</sup>][src-53] This is precisely the kind of conceptual resource that allows Wisdom Christology to be read as "God's eternal wisdom or purpose now embodied in a person in time," rather than "an eternal person took on flesh," and it gives historical plausibility to Unitarian readings of Johannine and Pauline "from heaven" language as mission idiom and proleptic plan idiom within a Jewish worldview. [<sup>[54]</sup>][src-54]
 
-## Which reading is more sensible, and what it implies for the biblical Jesus and the gospel
+## Comparative Assessment: Exegetical Plausibility and Implications for Christology and the Gospel
 
 If we begin as logically careful but theologically untrained readers, the question becomes one of explanatory power with minimal anachronism. The New Testament repeatedly and explicitly differentiates God as ultimate source from Jesus as the Messiah sent by God, framing salvation history as God acting through the human Messiah: the Father is "the only true God," and Jesus is "the one sent"; there is "one God" and "one mediator... the man Christ Jesus"; Jesus is "a man attested by God" through whom God worked. [<sup>[55]</sup>][src-55] Those lines are not rare footnotes; they function as programmatic theological summaries. When such summaries are placed alongside Second Temple Wisdom/Word discourse and agency logic, the Biblical Unitarian model gains substantial plausibility as a historically native reading strategy. [<sup>[56]</sup>][src-56]
 
