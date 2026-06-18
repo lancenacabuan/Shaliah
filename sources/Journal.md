@@ -1,4 +1,4 @@
-# The Biblical Unitarian Jesus: Recovering the Human Messiah through Jewish Agency and Wisdom Christology**
+# The Biblical Unitarian Jesus: Recovering the Human Messiah through Jewish Agency and Wisdom Christology
 
 This study reexamines the identity of Jesus Christ from a **Biblical Unitarian** standpoint, which maintains that God is one Person—the Father alone—and that Jesus is not God by nature, but rather God’s appointed and exalted Messiah. Central to this understanding are two crucial concepts deeply rooted in Jewish thought: the **Shaliah** principle of agency and **Wisdom Christology**. By revisiting these themes, we find a coherent and historically grounded Christology that challenges the later doctrinal developments of Trinitarianism and reorients us toward the original gospel proclaimed by Jesus and his apostles.
 

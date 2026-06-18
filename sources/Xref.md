@@ -27,7 +27,8 @@ Local project anchors:
 
 - `sources/Validation.md` - Sections 1, 11, and Condensed Case.
 - `sources/Writing.md` - Chapters 1, 20, and 21.
-- `sources/Guide.md` - Sections 1.1 and 2.2.
+- `sources/Knowledge.md` - Chapter 1 and Section 2.2.
+- `sources/Guide.md` - Introductory overview of agency and Wisdom Christology.
 
 ## 2. Jesus Is God's Human Messiah
 
@@ -50,8 +51,8 @@ Extrabiblical and historical cross-references:
 Local project anchors:
 
 - `sources/Validation.md` - Sections 2, 7, 8, and 15.
-- `sources/Findings.md` - "Rediscovering the True Gospel and Jesus' Mission."
-- `sources/Guide.md` - Sections 2.3 and 2.5.
+- `sources/Findings.md` - "Rediscovering the Gospel and the True Mission of Jesus."
+- `sources/Knowledge.md` - Sections 2.3 and 2.5.
 
 ## 3. Shaliah Agency Explains Divine Representation
 
@@ -108,7 +109,7 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 4.
 - `sources/Writing.md` - Chapters 6, 7, 11, and 24.
-- `sources/Guide.md` - Chapter 3.
+- `sources/Knowledge.md` - Chapter 3.
 - `sources/Literature.md` - Wisdom and agency overview.
 
 ## 5. Preexistence Can Be Ideal, Prophetic, or Foreordained
@@ -158,8 +159,8 @@ Local project anchors:
 
 - `sources/Validation.md` - Sections 4 and 6.
 - `sources/Writing.md` - Chapter 11.
-- `sources/Guide.md` - Sections 2.4 and 3.3.
-- `sources/Findings.md` - "John 1:1 and the Word."
+- `sources/Knowledge.md` - Sections 2.4 and 3.3.
+- `sources/Findings.md` - "Reinterpreting Christological Passages."
 
 ## 7. John 10 and Unity of Purpose
 
@@ -203,7 +204,7 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 6.
 - `sources/Writing.md` - Chapter 15.
-- `sources/Findings.md` - "Thomas's Confession in John 20:28."
+- `sources/Findings.md` - "Reinterpreting Christological Passages."
 
 ## 9. John 8:58 and "I Am"
 
@@ -226,7 +227,7 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 6.
 - `sources/Writing.md` - Chapter 16.
-- `sources/Findings.md` - "I AM Statements in John's Gospel."
+- `sources/Findings.md` - "Reinterpreting Christological Passages."
 
 ## 10. Philippians 2 and Obedient Messiah/Second Adam
 
@@ -250,8 +251,8 @@ Local project anchors:
 
 - `sources/Validation.md` - Sections 6, 7, and 8.
 - `sources/Writing.md` - Chapter 12.
-- `sources/Guide.md` - Section 2.4.
-- `sources/Findings.md` - "Philippians 2:6-7."
+- `sources/Knowledge.md` - Section 2.4.
+- `sources/Findings.md` - "Reinterpreting Christological Passages."
 
 ## 11. Colossians 1 and New Creation
 
@@ -275,8 +276,8 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 6.
 - `sources/Writing.md` - Chapter 13.
-- `sources/Guide.md` - Sections 2.4 and 3.3.
-- `sources/Findings.md` - "Colossians 1:15-17."
+- `sources/Knowledge.md` - Sections 2.4 and 3.3.
+- `sources/Findings.md` - "Reinterpreting Christological Passages."
 
 ## 12. Hebrews 1 and Royal-Wisdom Sonship
 
@@ -300,7 +301,7 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 6.
 - `sources/Writing.md` - Chapter 14.
-- `sources/Guide.md` - Section 3.3.
+- `sources/Knowledge.md` - Section 3.3.
 
 ## 13. Exaltation Christology Fits Acts and the Apostolic Gospel
 
@@ -325,7 +326,7 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 7.
 - `sources/Writing.md` - Chapters 19 and 26.
-- `sources/Guide.md` - Conclusion and Section 2.5.
+- `sources/Knowledge.md` - Chapter 7 and Section 2.5.
 
 ## 14. Jesus' Genuine Humanity and Mediation
 
@@ -350,7 +351,7 @@ Local project anchors:
 
 - `sources/Validation.md` - Section 8.
 - `sources/Writing.md` - Chapters 12 and 28.
-- `sources/Guide.md` - Sections 2.2, 3.4, and Conclusion.
+- `sources/Knowledge.md` - Sections 2.2, 3.4, and Chapter 7.
 
 ## 15. Worship, Honor, and Glory Are Directed Through Jesus to God
 
@@ -372,7 +373,7 @@ Extrabiblical and lexical cross-references:
 Local project anchors:
 
 - `sources/Validation.md` - Section 12.
-- `sources/Findings.md` - "The Question of Worship."
+- `sources/Findings.md` - "Trinitarian Objections and Responses."
 - `sources/Unitarian.md` - "Jesus as God's Appointed Messiah."
 
 ## 16. Divine Titles Can Be Representative Rather Than Ontological
@@ -423,8 +424,8 @@ Local project anchors:
 
 - `sources/Validation.md` - Sections 10 and 13.
 - `sources/Writing.md` - Chapters 4, 23, and 27.
-- `sources/Guide.md` - Chapter 1.
-- `sources/Findings.md` - "The Historical Development of Trinitarian Doctrine."
+- `sources/Knowledge.md` - Chapter 1.
+- `sources/Knowledge.md` - Chapter 1.
 
 ## 18. The Holy Spirit as God's Power and Presence
 
@@ -471,7 +472,7 @@ Extrabiblical and historical cross-references:
 Local project anchors:
 
 - `sources/Validation.md` - Section 15.
-- `sources/Findings.md` - "Rediscovering the True Gospel and Jesus' Mission."
+- `sources/Findings.md` - "Rediscovering the Gospel and the True Mission of Jesus."
 - `sources/Writing.md` - Chapters 25, 26, and Conclusion.
 - `sources/Literature.md` - Final gospel-centered paragraphs.
 
@@ -500,6 +501,6 @@ Local project anchors:
 - `sources/Validation.md` - Best condensed argument list.
 - `sources/Writing.md` - Full thesis arc and primary-source list.
 - `sources/Findings.md` - Comprehensive analysis with references.
-- `sources/Guide.md` - Chaptered version of the project.
-- `GodMan.md` - Short project overview.
+- `sources/Knowledge.md` - Chaptered version of the project.
+- `README.md` - Short project overview.
 

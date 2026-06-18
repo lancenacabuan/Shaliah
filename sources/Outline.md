@@ -54,7 +54,7 @@ A disclaimer is warranted: while some scholars detect "early high Christology" i
 
 ### Logical and Contextual Evaluation
 
-Approaching this unknowledgeably yet logically, assuming only sound reading comprehension and cultural-historical-biblical context, the unitarian perspective proves more sensible: it harmonizes the New Testament's Jewish roots, avoiding Trinitarianism's logical tensions—like how one God can be three co-equal persons without tritheism or modalism (critiqued in unitarian analyses as incoherent, e.g., three equaling one)—and sidesteps the need for extra-biblical philosophical scaffolding like ousia and hypostasis, which evolved amid imperial pressures at Nicaea.
+Approaching this without prior doctrinal commitments yet logically, assuming only sound reading comprehension and cultural-historical-biblical context, the unitarian perspective proves more sensible: it harmonizes the New Testament's Jewish roots, avoiding Trinitarianism's logical tensions—like how one God can be three co-equal persons without tritheism or modalism (critiqued in unitarian analyses as incoherent, e.g., three equaling one)—and sidesteps the need for extra-biblical philosophical scaffolding like ousia and hypostasis, which evolved amid imperial pressures at Nicaea.
 
 Trinitarianism, while defended historically as safeguarding Jesus' salvific efficacy (e.g., only God can atone infinitely), falters biblically, as Scripture attributes salvation to God's plan through a sinless human agent (Hebrews 2:17-18; 4:15), whose obedience as man reverses Adam's fall, rendering divine incarnation unnecessary and contradictory to texts like Numbers 23:19 ("God is not a man").
 

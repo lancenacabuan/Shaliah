@@ -180,8 +180,10 @@ Biblical Unitarianism is strongest when its points are taken together:
 
 ## Local Sources Consulted
 
+- `README.md`
 - `sources/Abstract.md`
 - `sources/Blog.md`
+- `sources/Citation.md`
 - `sources/Draft.md`
 - `sources/Excerpt.md`
 - `sources/Findings.md`
@@ -191,14 +193,19 @@ Biblical Unitarianism is strongest when its points are taken together:
 - `sources/Journal.md`
 - `sources/Knowledge.md`
 - `sources/Literature.md`
+- `sources/Manuscript.md`
 - `sources/Notes.md`
 - `sources/Outline.md`
 - `sources/Paperwork.md`
 - `sources/Question.md`
 - `sources/Response.md`
 - `sources/Summary.md`
+- `sources/Trinitarian.md`
 - `sources/Unitarian.md`
-- `God‑Man or God’s Man.pdf`
+- `sources/Writing.md`
+- `sources/Xref.md`
+- `sources/Yielding.md`
+- `sources/Zenith.md`
 
 ## Online Sources Consulted
 

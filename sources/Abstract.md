@@ -1,4 +1,4 @@
-**Rediscovering a Biblical Christology: Jesus as God's Agent and Wisdom**
+# Rediscovering a Biblical Christology: Jesus as God's Agent and Wisdom
 
 A rigorous exploration of the person and work of Jesus Christ—when disentangled from centuries of Hellenistic philosophy and post-apostolic creedal development—reveals a Christology deeply rooted in the monotheistic framework of Second Temple Judaism. This study argues that such a Christology is best apprehended through the complementary lenses of the Jewish legal principle of agency (*shaliah*) and the Hebraic tradition of personified Wisdom (*Chokmah*). It contends that the prevailing Trinitarian orthodoxy—which identifies Jesus as an ontologically co-equal, co-eternal person within a triune Godhead—constitutes a substantial departure from the original, unitarian monotheism affirmed by Jesus and the apostles. The biblical witness portrays Jesus not as a divine co-equal, but as the consummate human *shaliach* (agent or emissary) of Yahweh, the one true God and Father.
 
