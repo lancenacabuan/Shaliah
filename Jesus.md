@@ -144,15 +144,25 @@ This history does not require the conclusion that later theologians were insince
 
 The apostolic confession is simpler: one God, the Father; one Lord Messiah, Jesus; one Spirit of God at work. The later doctrinal categories may be historically important, but they should not be imposed backward as the obvious meaning of the biblical text.
 
-## The Strongest Trinitarian Challenge
+## The Trinitarian Case for Divine Identity
 
-A fair discussion should acknowledge the strongest Trinitarian argument. It is not merely that Jesus has divine-sounding titles. Jewish agency can explain that. It is not merely that Wisdom language is exalted. Jewish personification can explain that.
+A fair discussion should acknowledge the best Trinitarian case. It is not merely that Jesus has divine-sounding titles. Jewish agency can explain that. It is not merely that Wisdom language is exalted. Jewish personification can explain that.
 
-The stronger Trinitarian argument is that earliest Christian devotion gives Jesus a unique place in worship, invocation, creation language, sovereignty, judgment, and scriptural identification. Some scholars argue that this pattern includes Jesus within the unique divine identity of Israel's God.
+The central argument is that earliest Christian devotion gives Jesus a unique place in worship, invocation, creation language, sovereignty, judgment, and scriptural identification. Some scholars argue that this pattern includes Jesus within the unique divine identity of Israel's God.
 
 This is a serious argument. But even here, the move from early Jesus-devotion to Nicene ontology is a theological inference. The New Testament does not explicitly say that God is three co-equal, co-eternal persons, or that Jesus is one hypostasis sharing one ousia with the Father. Those are later conceptual tools used to interpret the data.
 
-The Biblical Unitarian response is that agency, Wisdom, exalted mediator traditions, resurrection exaltation, and God's delegation of authority already provide Jewish categories for understanding Jesus' unique role. Before moving to later metaphysical definitions, one must ask: What first-century Jewish evidence requires us to interpret Jesus' exalted status as ontological deity rather than as supreme delegated agency?
+The issue is therefore not whether Jesus occupies a uniquely exalted place. He does. The issue is whether first-century Jewish evidence requires that exalted status to be read as ontological deity rather than as supreme delegated agency.
+
+## A Biblical Unitarian Reply
+
+The reply begins by granting the weight of the evidence. Biblical Unitarianism must not reduce Jesus to one agent among many. He is the uniquely begotten Son, the definitive revealer of God, the Lord through whom salvation, judgment, and new creation are administered.
+
+Yet the New Testament's highest claims about Jesus are still repeatedly framed by distinction, reception, and mediation: God sends him, gives him authority, raises him, exalts him, appoints him, and receives glory through him. Even texts about worship, judgment, creation, glory, and divine naming must be read within that governing pattern rather than abstracted from it.
+
+John 1, preexistence language, Thomas' confession, and the worship of the Lamb are therefore not dismissed, but interpreted through Jewish categories of Word, Wisdom, agency, and exaltation. These texts show that God's own self-expression and saving purpose are uniquely present in Jesus. They do not by themselves require the later conclusion that Jesus is a second co-equal person within the being of God.
+
+The Trinitarian reading is possible as a theological synthesis, but it is not the only way to honor the full biblical witness. Biblical Unitarianism argues that Scripture gives enough conceptual resources to confess Jesus as God's supreme human Messiah and exalted Lord without redefining the one God as Father, Son, and Spirit.
 
 ## The Gospel: God Through His Messiah
 
