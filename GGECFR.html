@@ -1,0 +1,324 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --ink: #1A2235;
+    --parchment: #F7F0E3;
+    --gold: #C9A84C;
+    --gold-light: #E8D9A0;
+    --sage: #7D9E8C;
+    --dove: #E8E2D9;
+    --body-text: #2C3547;
+  }
+
+  .blog-wrap {
+    font-family: 'Source Sans 3', sans-serif;
+    background: var(--surface-0);
+    color: var(--text-primary);
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 0 3rem;
+  }
+
+  .blog-header {
+    background: var(--ink);
+    padding: 3rem 2rem 2.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .blog-header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 28px,
+      rgba(201,168,76,0.07) 28px,
+      rgba(201,168,76,0.07) 29px
+    );
+  }
+
+  .blog-eyebrow {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin: 0 0 1rem;
+    position: relative;
+  }
+
+  .blog-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #F7F0E3;
+    line-height: 1.2;
+    margin: 0 0 1rem;
+    position: relative;
+  }
+
+  .blog-subtitle {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.1rem;
+    font-style: italic;
+    color: rgba(247,240,227,0.7);
+    line-height: 1.6;
+    margin: 0;
+    position: relative;
+    max-width: 520px;
+  }
+
+  .gold-rule {
+    height: 1px;
+    background: linear-gradient(90deg, var(--gold), transparent);
+    margin: 0;
+    border: none;
+  }
+
+  .intro-section {
+    padding: 2rem 2rem 1.5rem;
+    border-bottom: 0.5px solid var(--border);
+  }
+
+  .intro-text {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: var(--text-primary);
+    margin: 0;
+  }
+
+  .imperative-section {
+    padding: 2rem 2rem 0;
+  }
+
+  .imperative-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .imperative-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--gold);
+    flex-shrink: 0;
+    margin-top: -0.2rem;
+    opacity: 0.5;
+  }
+
+  .imperative-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.2;
+    margin: 0 0 0.3rem;
+  }
+
+  .imperative-tag {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--sage);
+  }
+
+  .imperative-body {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+    margin: 0 0 1.25rem;
+  }
+
+  .pull-quote {
+    border-left: 2.5px solid var(--gold);
+    margin: 1.25rem 0 1.5rem 0;
+    padding: 0.75rem 1.25rem;
+    background: var(--surface-1);
+    border-radius: 0 var(--radius) var(--radius) 0;
+  }
+
+  .pull-quote-text {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.05rem;
+    font-style: italic;
+    color: var(--text-primary);
+    line-height: 1.7;
+    margin: 0 0 0.3rem;
+  }
+
+  .pull-quote-ref {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 12px;
+    color: var(--text-muted);
+    margin: 0;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+  }
+
+  .section-divider {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.5rem 2rem;
+  }
+
+  .divider-line {
+    flex: 1;
+    height: 0.5px;
+    background: var(--border-strong);
+  }
+
+  .divider-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--gold);
+    opacity: 0.6;
+  }
+
+  .closing-section {
+    margin: 0.5rem 2rem 0;
+    padding: 1.5rem;
+    background: var(--surface-1);
+    border-radius: 12px;
+    border: 0.5px solid var(--border);
+  }
+
+  .closing-label {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin: 0 0 0.75rem;
+  }
+
+  .closing-text {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.1rem;
+    font-style: italic;
+    line-height: 1.75;
+    color: var(--text-primary);
+    margin: 0;
+  }
+
+  .closing-text strong {
+    font-style: normal;
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+</style>
+
+<div class="blog-wrap">
+
+  <div class="blog-header">
+    <p class="blog-eyebrow">Biblical Unitarian Christology &nbsp;·&nbsp; Three Imperatives</p>
+    <h1 class="blog-title">One God, One Lord,<br>Three Callings</h1>
+    <p class="blog-subtitle">What the biblical portrait of Jesus — God's human Messiah, supreme agent, and embodied Wisdom — demands of us in practice.</p>
+  </div>
+  <div class="gold-rule"></div>
+
+  <div class="intro-section">
+    <p class="intro-text">Scripture does not present the life of Jesus as a metaphysical puzzle to be solved. It presents him as a pattern to be followed, a God to be directed toward, and a community to be knit together. From the Biblical Unitarian reading of the New Testament — in which there is one God, the Father, and one Lord Messiah, Jesus — three irreducible callings emerge: to glorify God, to emulate Christ, and to foster relationships. Each one flows directly from the Christology itself.</p>
+  </div>
+
+  <div class="imperative-section">
+    <div class="imperative-header">
+      <div class="imperative-num">I</div>
+      <div>
+        <p class="imperative-tag">The First Calling</p>
+        <h2 class="imperative-title">Glorify God</h2>
+      </div>
+    </div>
+
+    <p class="imperative-body">The Biblical Unitarian framework begins with a foundational insistence: the one God is the Father. Jesus himself, when asked about the greatest commandment, returned to Israel's Shema — "The LORD our God, the LORD is one" (Deut. 6:4; Mark 12:29). He did not revise that confession. He ratified it. And in the upper room, praying for his disciples, he named the Father "the only true God" (John 17:3).</p>
+
+    <p class="imperative-body">This matters profoundly for practice. If God is the Father, and if Jesus is the Son whom the Father sent, anointed, raised, and exalted, then the movement of all Christian devotion runs upward through the Son toward the Father. As the document puts it, "salvation is from the Father, through the Son, by the Spirit." To believe in Jesus is to believe in the one whom God sent. To honor Jesus is to glorify the Father who made him Lord.</p>
+
+    <div class="pull-quote">
+      <p class="pull-quote-text">"There is one God, the Father... and one Lord, Jesus Christ, through whom are all things and through whom we exist."</p>
+      <p class="pull-quote-ref">1 Corinthians 8:6 &nbsp;·&nbsp; NASB1995</p>
+    </div>
+
+    <p class="imperative-body">Paul's formulation is precise: the Father is the one God; Jesus is the one Lord through whom. The preposition carries enormous weight. Jesus is the conduit, the mediator, the appointed means. To glorify God, then, is not merely to sing praises in a vacuum. It is to receive Jesus as the one through whom God is made visible, known, and accessible — and to direct all honor and gratitude back to its source.</p>
+  </div>
+
+  <div class="section-divider">
+    <div class="divider-line"></div>
+    <div class="divider-dot"></div>
+    <div class="divider-line"></div>
+  </div>
+
+  <div class="imperative-section">
+    <div class="imperative-header">
+      <div class="imperative-num">II</div>
+      <div>
+        <p class="imperative-tag">The Second Calling</p>
+        <h2 class="imperative-title">Emulate Christ</h2>
+      </div>
+    </div>
+
+    <p class="imperative-body">Perhaps the most striking pastoral consequence of Biblical Unitarian Christology is what it does to the example of Jesus. If Jesus is ontologically God in disguise — fully divine playing at humanity — then his obedience, his temptation, his suffering, and his prayers become a kind of theater. The stakes were never real. He knew the outcome. He could not truly fail.</p>
+
+    <p class="imperative-body">The Biblical Unitarian reading restores what the Gospels plainly present: a real human being who genuinely grew in wisdom (Luke 2:52), who truly prayed "Not my will, but yours, be done" (Luke 22:42), who actually learned obedience through suffering (Hebrews 5:8), and who called the Father "my God" even from the other side of the resurrection (John 20:17). His faithfulness cost him something. His obedience was earned, not performed.</p>
+
+    <div class="pull-quote">
+      <p class="pull-quote-text">"For we do not have a high priest who cannot sympathize with our weaknesses, but One who has been tempted in all things as we are, yet without sin."</p>
+      <p class="pull-quote-ref">Hebrews 4:15 &nbsp;·&nbsp; NASB1995</p>
+    </div>
+
+    <p class="imperative-body">This means Jesus is not only the object of faith but the model of it. He shows us what Spirit-filled obedience looks like in actual human life — in grief, in pressure, in uncertainty, in prayer. He is the last Adam, the true image-bearer, the faithful human Son who walked the path God intended for humanity from the beginning. We can emulate Christ not as an impossible imitation of God, but as a genuine following of the pioneer who went before us in our own kind of existence.</p>
+  </div>
+
+  <div class="section-divider">
+    <div class="divider-line"></div>
+    <div class="divider-dot"></div>
+    <div class="divider-line"></div>
+  </div>
+
+  <div class="imperative-section">
+    <div class="imperative-header">
+      <div class="imperative-num">III</div>
+      <div>
+        <p class="imperative-tag">The Third Calling</p>
+        <h2 class="imperative-title">Foster Relationships</h2>
+      </div>
+    </div>
+
+    <p class="imperative-body">Christology is never merely academic. The way we understand Jesus reshapes the way we understand ourselves in relation to one another. The Biblical Unitarian framework roots Christian community in a shared orientation to the one God and to the Messiah he has appointed. It also opens certain doors of dialogue that have historically remained shut.</p>
+
+    <p class="imperative-body">The document observes that this reading "opens clearer dialogue with Jews and Muslims, who share a concern for strict monotheism." The claim that Jesus is God's Messiah remains distinctive and challenging — it is not a lowest-common-denominator claim — but it does not require asking conversation partners to first accept a doctrine of God that they find incomprehensible. The ground of shared monotheism becomes a starting point rather than an obstacle.</p>
+
+    <div class="pull-quote">
+      <p class="pull-quote-text">"For there is one God, and one mediator also between God and men, the man Christ Jesus."</p>
+      <p class="pull-quote-ref">1 Timothy 2:5 &nbsp;·&nbsp; NASB1995</p>
+    </div>
+
+    <p class="imperative-body">Within the Christian community, the humanity of Jesus binds believers together in a different register. He is our brother (Hebrews 2:11–12), not only our sovereign. He is the tested and sympathetic high priest who intercedes because he has endured what we endure. A Christology that takes his humanity seriously makes the community gathered around him a community of genuinely shared human experience — people who suffer, pray, doubt, and obey together, following a Lord who did the same before them. To foster relationships, then, is the natural overflow of a faith anchored in the God who sent his human Son to live among us.</p>
+  </div>
+
+  <div class="section-divider">
+    <div class="divider-line"></div>
+    <div class="divider-dot"></div>
+    <div class="divider-line"></div>
+  </div>
+
+  <div class="closing-section">
+    <p class="closing-label">In Summary</p>
+    <p class="closing-text">The Biblical Unitarian portrait of Jesus — the Son of God, not God the Son — does not diminish the three callings. It deepens them. To glorify God is to acknowledge the Father as the only true God who acted through his Messiah. To emulate Christ is to follow a genuinely human pioneer whose faithfulness was real. To foster relationships is to live as members of a community gathered by a human Lord who sympathizes with our weakness, sent by a God who is Father of all. These three callings do not compete. They form a single life, ordered from the Father, shaped by the Son, animated by the Spirit.</p>
+  </div>
+
+</div>
