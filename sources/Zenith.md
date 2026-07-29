@@ -162,19 +162,85 @@ The New Testament can affirm the highest possible role for Jesus under God witho
 
 ## 10. Project Map
 
-The major source files contribute to this capstone in distinct ways:
+The `sources/` directory holds the project's working library. The files below support this capstone, organized by the nine argumentative pillars developed in sections 1–9 above.
 
-- `sources/Guide.md` introduces the basic thesis: Jesus as God's agent, not God Himself.
-- `sources/Summary.md` frames the whole debate between Church-traditional Trinitarianism and Biblical Unitarianism.
-- `sources/Abstract.md` presents the academic thesis through agency and Wisdom Christology.
-- `sources/Validation.md` gathers the strongest reasons for preferring Biblical Unitarianism.
-- `sources/Xref.md` supplies cross-references for the project's major arguments.
-- `sources/Yielding.md` draws out what the evidence yields when read cumulatively.
-- `sources/Findings.md` develops the interpretive and gospel implications.
-- `sources/Trinitarian.md` and `sources/Unitarian.md` preserve the contrast between the two positions.
-- `sources/Manuscript.md`, `sources/Writing.md`, and `sources/Outline.md` support longer-form development.
-- `sources/Citation.md`, `sources/Literature.md`, and `sources/Excerpt.md` support documentation and research grounding.
-- `sources/Notes.md`, `sources/Draft.md`, `sources/Insights.md`, `sources/Hypothesis.md`, `sources/Question.md`, `sources/Response.md`, `sources/Paperwork.md`, `sources/Journal.md`, and `sources/Blog.md` preserve the project's working, reflective, and public-facing materials.
+**Capstone**
+
+- `sources/Zenith.md` states the peak argument in compressed form: Father-centered monotheism, the human Messiah, agency, embodied Wisdom, functional versus ontological high Christology, exaltation gospel, historical development, and the cumulative case.
+
+**1. The central question**
+
+- `sources/Question.md` poses the challenge: what first-century Jewish evidence requires ontological deity rather than supreme delegated agency?
+- `sources/Response.md` answers with the interpretive framework that should guide New Testament Christology.
+- `sources/Hypothesis.md` states the working thesis: Shaliah agency and Wisdom Christology as a Biblical Unitarian reinterpretation of the Messiah.
+- `sources/Guide.md` introduces the basic claim: Jesus as God's agent, not God Himself.
+- `sources/Abstract.md` presents the academic thesis in summary form.
+
+**2. The one God is the Father**
+
+- `sources/Validation.md`, Section 1, gathers the monotheistic texts that identify the Father as the one God.
+- `sources/Yielding.md`, Section 1, traces what the evidence yields on Father-centered confession.
+- `sources/Notes.md`, Sections XXVIII, XLIII, and LXIX, treat John 17:3, 1 Corinthians 8:6, and Jesus' own God.
+- `sources/Xref.md` cross-indexes the Father-monotheism argument across the library.
+
+**3. Jesus is God's human Messiah**
+
+- `sources/Validation.md`, Section 2, and `sources/Yielding.md`, Section 2, develop Acts and Pauline exaltation Christology.
+- `sources/Notes.md`, Sections XXIX, XXXVII–XXXIX, and XLV, cover the synoptic Jesus, apostolic preaching, resurrection exaltation, and Philippians 2.
+- `sources/Findings.md` draws out the gospel and mission implications for the human Messiah.
+
+**4. Agency explains divine representation**
+
+- `sources/Validation.md`, Section 3, and `sources/Yielding.md`, Section 3, apply the Shaliah principle to Jesus.
+- `sources/Notes.md`, Sections IV–XII and XCIII, develop biblical agency from Moses and the angel of YHWH through Johannine sending language.
+- `sources/Outline.md` maps Second Temple foundations: monotheism, agency, and Wisdom literature.
+- `sources/Xref.md` links agency arguments across `Knowledge.md`, `Writing.md`, and `Literature.md`.
+
+**5. Wisdom and Word become embodied in Jesus**
+
+- `sources/Validation.md`, Section 4, and `sources/Yielding.md`, Sections 4 and 6, treat Wisdom, Logos, and embodiment.
+- `sources/Notes.md`, Sections XIII–XVIII and XCI–XCII, survey personified Wisdom, Sirach, Wisdom of Solomon, Philo, and the Word made flesh.
+- `sources/Literature.md` and `sources/Excerpt.md` ground the argument in intertestamental Wisdom theology.
+
+**6. High Christology need not mean ontological deity**
+
+- `sources/Validation.md`, Sections 5–6 and 14, and `sources/Yielding.md`, Sections 7–12 and 16, address disputed Johannine, Pauline, and general proof texts.
+- `sources/Notes.md`, Sections XIX–XXVII and LIV–LXVII, exegete John 1, 8, 10, and 20, Hebrews 1, Colossians 1, and related passages.
+- `sources/Findings.md`, "Reinterpreting Christological Passages," applies agency and Wisdom to the strongest Trinitarian texts.
+
+**7. The gospel is exaltation, not incarnation metaphysics**
+
+- `sources/Validation.md`, Sections 7 and 15, and `sources/Yielding.md`, Section 17, center the apostolic gospel on what God did through and for Jesus.
+- `sources/Notes.md`, Sections XCVII–XCIX, recover the true mission of Jesus and the apostolic gospel of the Kingdom.
+- `sources/Insights.md` calls for reformation through this corrected Christology.
+
+**8. The historical development matters**
+
+- `sources/Validation.md`, Sections 10 and 13, and `sources/Yielding.md`, Section 15, distinguish apostolic confession from later creedal categories.
+- `sources/Notes.md`, Sections LXXXVI–LXXXVIII, trace the path from Jewish agency to Nicene ontology.
+- `sources/Citation.md` documents the historical and theological development in depth.
+
+**9. The cumulative case**
+
+- `sources/Validation.md`, "Condensed Case," lists the ten strongest reasons taken together.
+- `sources/Yielding.md`, "Final Yield," states what the full evidence yields when read cumulatively.
+- `sources/Notes.md` develops the complete numbered argument in one hundred sections, from methodological foundations through conclusion.
+- `sources/Xref.md` supplies cross-references for every major argument in the library.
+
+**Long-form development**
+
+- `sources/Study.md` is the full dissertation: Trinitarian and Biblical Unitarian Christologies in light of Wisdom literature and the law of agency.
+- `sources/Writing.md` develops the argument in structured parts, with methodology, exegesis, synthesis, and bibliography.
+- `sources/Manuscript.md`, `sources/Knowledge.md`, and `sources/Paperwork.md` carry successive manuscript and chapter drafts.
+- `sources/Draft.md` and `sources/Journal.md` hold earlier drafts and journal-style synthesis of agency and Wisdom Christology.
+
+**Contrasting positions**
+
+- `sources/Trinitarian.md` and `sources/Unitarian.md` preserve reaction papers on *God-Man or God's Man?* from each side of the debate.
+
+**Public-facing argument**
+
+- `sources/Blog.md` presents the argument in a concise, accessible form.
 
 Read together, these files form one sustained argument: recover Jesus within the Jewish monotheistic world that produced the New Testament.
 

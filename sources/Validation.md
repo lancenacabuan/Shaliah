@@ -199,7 +199,7 @@ Biblical Unitarianism is strongest when its points are taken together:
 - `sources/Paperwork.md`
 - `sources/Question.md`
 - `sources/Response.md`
-- `sources/Summary.md`
+- `sources/Study.md`
 - `sources/Trinitarian.md`
 - `sources/Unitarian.md`
 - `sources/Writing.md`
@@ -219,4 +219,3 @@ Biblical Unitarianism is strongest when its points are taken together:
 - The Living Truth Fellowship, "Common Verses: An Explanation of Verses Sometimes Used to Support the Trinity" https://thelivingtruthfellowship.org/what-about-the-trinity/common-verses-an-explanation-of-verses-sometimes-used-to-support-the-trinity/
 - Unitarianism.net, "The Moody Bible Commentary's Error on Acts 2:36" https://unitarianism.net/articles/rebuttals/moody-bible-commentary-acts-2.html
 - Bible Gateway, "Acts 2:22" https://www.biblegateway.com/verse/en/Acts%202:22
-
