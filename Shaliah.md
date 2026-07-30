@@ -12,6 +12,33 @@ The central claim is simple: the New Testament's exalted language about Jesus is
 
 This view does not ask readers to honor Jesus less. It asks readers to honor him as Scripture presents him: not as God Himself, but as the Son of God, the Messiah whom the one God has made Lord.
 
+## Table of Contents
+
+- [Introduction: The Question Beneath the Debate](#introduction-the-question-beneath-the-debate)
+- [The One God Is the Father](#the-one-god-is-the-father)
+- [Jesus as God's Human Messiah](#jesus-as-gods-human-messiah)
+- [Agency: The Sent One Represents the Sender](#agency-the-sent-one-represents-the-sender)
+- [Wisdom and Word Made Flesh](#wisdom-and-word-made-flesh)
+- [Preexistence as Foreordination and Divine Plan](#preexistence-as-foreordination-and-divine-plan)
+- [Reading the Major Christological Texts](#reading-the-major-christological-texts)
+  - [John 1:1–14](#john-1114)
+  - [John 8:58](#john-858)
+  - [John 10:30](#john-1030)
+  - [John 20:28](#john-2028)
+  - [Philippians 2:5–11](#philippians-2511)
+  - [Colossians 1:15–20](#colossians-11520)
+  - [Hebrews 1](#hebrews-1)
+  - [Titus 2:13 and 2 Peter 1:1](#titus-213-and-2-peter-11)
+- [High Christology Without Ontological Deity](#high-christology-without-ontological-deity)
+- [Worship, Honor, and Glory](#worship-honor-and-glory)
+- [The Holy Spirit as God's Power and Presence](#the-holy-spirit-as-gods-power-and-presence)
+- [The Historical Development of Trinitarian Doctrine](#the-historical-development-of-trinitarian-doctrine)
+- [The Trinitarian Case for Divine Identity](#the-trinitarian-case-for-divine-identity)
+- [A Biblical Unitarian Reply](#a-biblical-unitarian-reply)
+- [The Gospel: God Through His Messiah](#the-gospel-god-through-his-messiah)
+- [Implications for Faith and Practice](#implications-for-faith-and-practice)
+- [Conclusion: The Son of God, Not God the Son](#conclusion-the-son-of-god-not-god-the-son)
+
 ## The One God Is the Father
 
 The starting point of biblical faith is the confession of one God. Israel's Shema declares, "Hear, O Israel: the LORD our God, the LORD is one" (Deuteronomy 6:4). Jesus did not revise that confession into a tri-personal definition of God. When asked about the greatest commandment, he affirmed the same monotheistic confession (Mark 12:29).
@@ -74,7 +101,7 @@ The question is not whether Jesus is eternally important. He is. The question is
 
 Several passages are often used as decisive proof that Jesus is God. Read within Jewish monotheism, agency, Wisdom, and exaltation, they can be understood differently.
 
-### John 1:1-14
+### John 1:1–14
 
 Trinitarian theology often reads the Word as a preexistent divine person, God the Son, who becomes human. The Wisdom-agency reading sees the Word as God's self-expression, plan, and creative speech. The text speaks of "Word" before it speaks of "Son." The Word becomes flesh when God's purpose is embodied in Jesus, who reveals the unseen Father.
 
@@ -90,11 +117,11 @@ Trinitarian theology often reads the Word as a preexistent divine person, God th
 
 Thomas' confession, "My Lord and my God," is a climactic recognition of the risen Jesus. Yet the same chapter has Jesus say, "I ascend to my Father and your Father, to my God and your God" (John 20:17). The Gospel has already identified the Father as the only true God. Within agency, Thomas' words can honor the God revealed in and through the risen Messiah without overturning the Father-Son distinction.
 
-### Philippians 2:5-11
+### Philippians 2:5–11
 
 This passage is often read as a story of a divine person descending into humanity. But it can also be read as the story of the obedient Messiah. Unlike Adam, who grasped at being like God, Jesus does not grasp. He humbles himself, obeys unto death, and therefore God highly exalts him. The logic of the passage is not that Jesus returns to a status he already possessed, but that God exalts him because of his faithful obedience.
 
-### Colossians 1:15-20
+### Colossians 1:15–20
 
 Christ is the image of the invisible God and the firstborn over creation. "Image" means representation, not identity. "Firstborn" often denotes rank, inheritance, and supremacy. The passage names thrones, dominions, rulers, and authorities, and then identifies Jesus as head of the body and firstborn from the dead. This can be read as new-creation Christology: the risen Messiah is supreme over the reconciled order God brings about through him.
 
@@ -114,7 +141,9 @@ Jesus is Lord, Son of God, image of God, Wisdom of God, mediator, judge, Savior,
 
 The key distinction is between functional supremacy and ontological identity.
 
-Functional supremacy means Jesus acts with God's authority, reveals God's will, governs God's new creation, receives honor, and mediates salvation because God has appointed and exalted him. Ontological identity means Jesus is the same God as the Father in being or essence.
+- Functional supremacy means Jesus acts with God's authority, reveals God's will, governs God's new creation, receives honor, and mediates salvation because God has appointed and exalted him.
+
+- Ontological identity means Jesus is the same God as the Father in being or essence.
 
 The Biblical Unitarian claim is that the first category is deeply biblical, while the second is a later theological synthesis. The New Testament can affirm the highest possible role for Jesus under God without making Jesus the one God Himself.
 
@@ -138,7 +167,7 @@ This preserves the biblical reality of the Spirit without requiring a later Trin
 
 The doctrine of the Trinity did not appear fully formed in the preaching of Jesus or the apostles. It developed over time as the church engaged Greek philosophical vocabulary, debated Christ's status, and responded to controversy.
 
-The Council of Nicaea in 325 used the term homoousios, "same substance," to define the Son's relation to the Father. The Council of Constantinople in 381 consolidated Trinitarian doctrine, including the Spirit. Later Christological formulations further defined Jesus in terms of two natures.
+The Council of Nicaea in 325 used the term *homoousios*, "same substance," to define the Son's relation to the Father. The Council of Constantinople in 381 consolidated Trinitarian doctrine, including the Spirit. Later Christological formulations further defined Jesus in terms of two natures.
 
 This history does not require the conclusion that later theologians were insincere or careless. Many were trying to protect Jesus' exalted status and the coherence of salvation. But it does mean that later creedal grammar should be treated as interpretation, not as the starting point for reading first-century Jewish texts.
 
