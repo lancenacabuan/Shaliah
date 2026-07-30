@@ -7,8 +7,6 @@
 
 ---
 
-
-
 ## Abstract
 
 This study asks whether the New Testament’s exalted presentation of Jesus requires the church-traditional identification of him as the **God-Man**—God the Son incarnate and ontologically included within the one God of Israel—or is better explained through the Biblical Unitarian understanding of him as **God’s Man**: the uniquely authorized human Messiah interpreted through Jewish categories of commissioned agency, personified Wisdom, divine image, messianic kingship, genuine human obedience, resurrection, and exaltation. It argues that Biblical Unitarian Christology offers substantial explanatory economy by preserving the New Testament’s ordinary distinction between God and Jesus while affirming Jesus as God’s unique Son, supreme agent, embodied Wisdom, risen Lord, mediator, and appointed judge.
@@ -58,8 +56,6 @@ That conclusion is not established by pretending that every difficult text is ea
 
 ## 2. Method and Historical Cautions
 
-
-
 ### 2.1 Comparative Explanatory Power
 
 Theological interpretation is not a mathematical proof in which one verse mechanically cancels another. Both Trinitarian and Biblical Unitarian models can construct coherent readings of much of the evidence. The responsible question is comparative: Which model best explains the total pattern? Which preserves the natural force of explicit relational statements? Which handles the highest Christological texts without reduction? Which requires fewer imported premises?
@@ -83,8 +79,6 @@ The New Testament does not contain a systematic sentence defining God as three c
 
 
 ## 3. The One God and God’s Man — The Human Messiah
-
-
 
 ### 3.1 The Identity Statements
 
@@ -121,8 +115,6 @@ Trinitarian interpreters may describe this as the eternal order of divine relati
 
 ## 4. Divine Agency — Representative Authority Without Ontological Identity
 
-
-
 ### 4.1 The Scriptural Grammar of Representation
 
 The Hebrew Bible repeatedly attributes the sender’s authority and speech to an authorized representative. Moses is made *elohim* to Pharaoh (Exodus 7:1), yet he does not become the God of Israel. Aaron serves as Moses’ mouth, establishing a chain of representation from God to Moses to Aaron (Exodus 4:16).
@@ -156,8 +148,6 @@ Its limitation must also be stated. Some New Testament passages appear to go bey
 
 
 ## 5. Wisdom and Word — From Divine Purpose to the Historical Jesus
-
-
 
 ### 5.1 Personified Wisdom in Early Jewish Texts
 
@@ -194,8 +184,6 @@ This history is important for two reasons:
 1. It confirms that Wisdom traditions were not a marginal background but a major bridge between biblical language and later ontological Christology.
 2. It warns against assuming that the New Testament’s Wisdom language already contains the fully developed conclusions later theologians drew from it. Historical influence and original semantic content are related questions, but they are not identical.
 
-
-
 ### 5.6 The Word Becomes Flesh
 
 John 1 begins with “the Word,” not explicitly with “Jesus” or “the Son.” In Israel’s Scriptures, God’s word creates, reveals, judges, and accomplishes God’s purpose (Genesis 1; Psalm 33:6; Isaiah 55:10–11). Wisdom traditions add language of presence with God, participation in creation, radiance, and descent into history.
@@ -221,8 +209,6 @@ It does not follow that every preexistence statement is ideal. John 8:58 and Joh
 
 
 ## 6. Major Christological Texts — Exegesis and Counterevidence
-
-
 
 ### 6.1 John 1:1–18
 
@@ -332,8 +318,6 @@ Likewise, *kyrios* can render the divine name, but it can also mean master, rule
 
 ## 7. The Holy Spirit — Divine Presence, Power, and Triadic Evidence
 
-
-
 ### 7.1 The Spirit as God’s Active Presence and Power
 
 Biblical language often presents the Spirit as God in action: God’s breath, life-giving power, prophetic inspiration, holy presence, and eschatological gift. The Spirit is poured out, given, received, distributed, and placed upon people. Jesus is conceived by the Spirit, anointed with the Spirit, led by the Spirit, and empowered by the Spirit. Believers become temples because God dwells in them by his Spirit.
@@ -365,8 +349,6 @@ Within a Biblical Unitarian framework, the confession may be summarized as one G
 
 
 ## 8. Worship and Divine Prerogatives — Honor, Authority, and YHWH Texts
-
-
 
 ### 8.1 The Reality of Early Devotion
 
@@ -403,8 +385,6 @@ That response is conceptually possible, but it should not be treated as effortle
 
 
 ## 9. God’s Man and the Restoration of Humanity — Adam Christology and Redemption
-
-
 
 ### 9.1 Genuine Obedience, Temptation, Faith, and Suffering
 
@@ -449,8 +429,6 @@ The apostolic gospel is therefore narrative before it is metaphysical. God sends
 
 
 ## 10. From Early Christology to Creed — Nicaea, Constantinople, and Chalcedon
-
-
 
 ### 10.1 Early Devotion and the Limits of the “Constantine Invented It” Narrative
 
@@ -501,8 +479,6 @@ Whether that development represents faithful doctrinal maturation or an unnecess
 
 ## 11. Nontrinitarian Trajectories — Jewish Christianity, Arianism, Socinianism, and Beyond
 
-
-
 ### 11.1 The Problem of Retrospective Labels
 
 “Nontrinitarian” covers positions that differ radically from one another. A human-only Messiah, an adopted Son, a preexistent created Logos, a modal manifestation of one divine person, and a modern Biblical Unitarian account are not the same theology. Historical labels were often supplied by opponents, and much evidence for early minority groups comes through polemical heresiological reports. No responsible history should collapse all dissent from Nicaea into one continuous movement.
@@ -548,8 +524,6 @@ The evidence shows early high devotion, early human-Messiah alternatives, widesp
 
 
 ## 12. God-Man or God’s Man? — Comparing the Explanatory Models
-
-
 
 ### 12.1 The Strongest Trinitarian Case
 
@@ -622,8 +596,6 @@ The judgment must remain qualified. The Biblical Unitarian reading does not remo
 
 ## 13. Gospel and Faith Practice — Worship, Discipleship, and Proclamation
 
-
-
 ### 13.1 The Gospel’s Narrative Shape
 
 The gospel announces that the God of Israel has fulfilled his promises through Jesus the Messiah. Jesus proclaims the kingdom, embodies God’s righteousness and compassion, dies for sins, is raised from the dead, receives universal lordship, pours out the Spirit, and will return to judge and renew the world. The saving movement is from the Father, through the Son, by the Spirit.
@@ -657,8 +629,6 @@ Constructive dialogue requires precise definitions, willingness to concede diffi
 
 
 ## 14. Contemporary Implications — Theology, Fellowship, and Interfaith Dialogue
-
-
 
 ### 14.1 Intra-Christian Identity and Fellowship
 
