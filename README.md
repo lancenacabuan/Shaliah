@@ -1,6 +1,6 @@
 # God-Man or God’s Man?
 
-**Church-Traditional Trinitarianism and Biblical Unitarian Christology**  
+**Nicene Trinitarianism and Biblical Unitarian Christology**  
 *Jewish Agency, Wisdom Traditions, Early High Christology, the Holy Spirit, and Nicene Development*
 
 > **Governing Contrast:** “God-Man” names the church-traditional claim that Jesus is God the Son incarnate. “God’s Man” names the Biblical Unitarian claim that Jesus is the uniquely begotten, Spirit-anointed, crucified, resurrected, and exalted human Messiah through whom the one God reveals, saves, judges, and rules.
@@ -9,11 +9,11 @@
 
 ## Abstract
 
-This study asks whether the New Testament’s exalted presentation of Jesus requires the church-traditional identification of him as the **God-Man**—God the Son incarnate and ontologically included within the one God of Israel—or is better explained through the Biblical Unitarian understanding of him as **God’s Man**: the uniquely authorized human Messiah interpreted through Jewish categories of commissioned agency, personified Wisdom, divine image, messianic kingship, genuine human obedience, resurrection, and exaltation. It argues that Biblical Unitarian Christology offers substantial explanatory economy by preserving the New Testament’s ordinary distinction between God and Jesus while affirming Jesus as God’s unique Son, supreme agent, embodied Wisdom, risen Lord, mediator, and appointed judge.
+This study asks whether the New Testament’s exalted presentation of Jesus requires the church-traditional identification of him as the **God-Man**—God the Son incarnate and ontologically included within the one God of Israel—or may be more economically explained through the Biblical Unitarian understanding of him as **God’s Man**: the uniquely authorized human Messiah interpreted through Jewish categories of commissioned agency, personified Wisdom, divine image, messianic kingship, genuine human obedience, resurrection, and exaltation. It argues that Biblical Unitarian Christology offers substantial explanatory economy by preserving the New Testament’s ordinary distinction between God and Jesus while affirming Jesus as God’s unique Son, supreme agent, embodied Wisdom, risen Lord, mediator, and appointed judge.
 
 The investigation treats the strongest Trinitarian evidence as genuine counterevidence: personal-preexistence texts, creation language, YHWH passages applied to Christ, direct divine titles, Thomas’s confession, the worship of the Lamb, triadic formulas, personal language concerning the Spirit, and early Christian devotion. It also traces the development from New Testament Christology through the Apostolic Fathers, Logos theology, the Arian controversy, Nicaea, Constantinople, and Chalcedon; distinguishes Biblical Unitarianism from Arian, modalist, and adoptionist alternatives; and examines the implications for gospel proclamation, worship, discipleship, Christian identity, and interfaith dialogue.
 
-> **Thesis:** The most economical synthesis of the total pattern is that the Father is the one God; Jesus is **God’s Man**—the uniquely authorized human Messiah through whom God reveals, saves, judges, and rules; and the Holy Spirit is God’s living presence and power active through the Messiah and among God’s people. This conclusion remains qualified by the real pressure exerted by the New Testament’s highest Christological and pneumatological texts.
+> **Thesis:** This study argues that, under the comparative criteria employed here, the more economical synthesis is that the Father is the one God; Jesus is **God’s Man**—the uniquely authorized human Messiah through whom God reveals, saves, judges, and rules; and the Holy Spirit is God’s living presence and power active through the Messiah and among God’s people. This conclusion remains qualified by the real pressure exerted by the New Testament’s highest Christological and pneumatological texts.
 
 
 
@@ -44,11 +44,11 @@ The investigation treats the strongest Trinitarian evidence as genuine counterev
 
 Few questions have shaped Christian theology more deeply than the identity of Jesus. Much of historic Christianity confesses him as the **God-Man**: the eternal Son, fully divine and fully human, distinct from the Father yet sharing the one divine essence. Biblical Unitarian Christology instead confesses him as **God’s Man**—not merely a man, but God’s uniquely begotten human Son, Messiah, supreme agent, image, mediator, resurrected Lord, and appointed judge—under the one God, the Father.
 
-The central issue is not whether the New Testament exalts Jesus. It plainly does. Jesus is presented as Lord, Son of God, image of God, Wisdom of God, mediator, savior, judge, firstborn, heir, and ruler of the coming age. The real question is what this elevation means. Does the New Testament identify Jesus as the **God-Man**, eternally and ontologically included within the being of Israel’s God, or as **God’s Man**—the uniquely authorized human Messiah through whom God acts, reveals, judges, saves, and rules?
+The central issue is not whether the New Testament exalts Jesus. It plainly does. Jesus is presented as Lord, Son of God, image of God, Wisdom of God, mediator, savior, judge, firstborn, heir, and ruler of the coming age. The central interpretive question is how this exalted language should be understood within its first-century Jewish and early Christian contexts. Does the New Testament identify Jesus as the **God-Man**, eternally and ontologically included within the being of Israel’s God, or as **God’s Man**—the uniquely authorized human Messiah through whom God acts, reveals, judges, saves, and rules?
 
 The earliest Christian evidence is complex enough to sustain a major scholarly debate. Dunn emphasized development and the importance of Jewish Wisdom and Adamic categories; Hurtado emphasized the remarkably early devotional place given to Jesus; and Bauckham argued that New Testament writers include Jesus within the unique divine identity of Israel’s God.<sup id="cite-1-1"><a href="#source-1" aria-label="Source 1">[1]</a></sup> <sup id="cite-2-1"><a href="#source-2" aria-label="Source 2">[2]</a></sup> <sup id="cite-3-1"><a href="#source-3" aria-label="Source 3">[3]</a></sup> These are not merely denominational slogans. They represent different attempts to account for the same data: explicit monotheistic confessions, Jesus’ dependence upon God, cosmic language, YHWH texts, divine titles, resurrection exaltation, and worship.
 
-This study argues that the Biblical Unitarian model has an important advantage in explanatory economy. It allows repeated statements that identify the Father as the one God and Jesus as the one sent by that God to retain their ordinary relational force. It takes seriously the biblical categories by which an authorized representative can bear divine words, authority, names, and functions without becoming the sender. It also interprets Wisdom and Word language within the Jewish literary world from which it emerged.
+This study argues that the Biblical Unitarian model may have an advantage in explanatory economy, particularly in its treatment of explicit relational and subordination language. It allows repeated statements that identify the Father as the one God and Jesus as the one sent by that God to retain their ordinary relational force. It takes seriously the biblical categories by which an authorized representative can bear divine words, authority, names, and functions without becoming the sender. It also interprets Wisdom and Word language within the Jewish literary world from which it emerged.
 
 That conclusion is not established by pretending that every difficult text is easy. A responsible case must concede that several passages are naturally read as personal preexistence or direct divine identification. The argument is cumulative: the question is which model accounts for the largest range of texts, in their genres and historical settings, without repeatedly adding distinctions not stated by the texts themselves.
 
@@ -58,7 +58,7 @@ That conclusion is not established by pretending that every difficult text is ea
 
 ### 2.1 Comparative Explanatory Power
 
-Theological interpretation is not a mathematical proof in which one verse mechanically cancels another. Both Trinitarian and Biblical Unitarian models can construct coherent readings of much of the evidence. The responsible question is comparative: Which model best explains the total pattern? Which preserves the natural force of explicit relational statements? Which handles the highest Christological texts without reduction? Which requires fewer imported premises?
+Theological interpretation is not a mathematical proof in which one verse mechanically cancels another. Both Trinitarian and Biblical Unitarian models can construct coherent readings of much of the evidence. The responsible question is comparative: Which model best explains the total pattern? Which preserves the natural force of explicit relational statements? Which handles the highest Christological texts without reduction? Which requires fewer or less historically remote supplementary premises, while still accounting for the strongest counterevidence?
 
 This method rejects two opposite shortcuts. It is not enough to quote “the Word was God” and assume that the later formula of one essence in three coequal persons has thereby been stated. It is equally inadequate to quote “the Father is greater than I” and refuse to engage incarnation or two-natures reasoning. Each model must be assessed in its strongest form.
 
@@ -123,7 +123,7 @@ The angel of YHWH provides an even stronger example. In Genesis 16, Genesis 22, 
 
 Kings, judges, priests, and prophets supply related patterns. Psalm 45 can address a royal figure with *elohim* language while immediately speaking of “God, your God,” who anoints him. Solomon sits on “the throne of YHWH” (1 Chronicles 29:23) without becoming YHWH. Human judges may bear divine terminology; prophets speak God’s words; rulers administer divine judgment; and deliverers can be called saviors because God saves through them.
 
-The lexical and conceptual lesson is limited but important: divine titles, divine functions, and first-person divine speech do not automatically establish ontological identity. Context must determine whether the language expresses identity, representation, participation, or delegated authority.
+The lexical and conceptual lesson is limited but important: divine titles, functions, and first-person divine speech cannot, in isolation, be treated as conclusive evidence of ontological identity. Context must determine whether the language expresses identity, representation, participation, or delegated authority.
 
 ### 4.2 The Legal Maxim and Its Proper Use
 
@@ -153,7 +153,7 @@ Its limitation must also be stated. Some New Testament passages appear to go bey
 
 Proverbs 8 portrays Wisdom as a woman calling humanity to life and as present before or during God’s creation. The poetry is vivid and has generated interpretations ranging from literary personification to heavenly hypostasis.<sup id="cite-12-1"><a href="#source-12" aria-label="Source 12">[12]</a></sup> Sirach 24 intensifies the imagery: Wisdom comes from the mouth of the Most High, dwells in heaven, traverses creation, and is commanded by the Creator to make her dwelling in Israel; the chapter then identifies this Wisdom with Torah.<sup id="cite-13-1"><a href="#source-13" aria-label="Source 13">[13]</a></sup> Wisdom of Solomon 7 describes Wisdom as a pure emanation of divine glory, a reflection of eternal light, a mirror of God’s activity, and an image of divine goodness.<sup id="cite-14-1"><a href="#source-14" aria-label="Source 14">[14]</a></sup>
 
-These texts establish a crucial possibility. Jewish monotheistic discourse could use personal, cosmic, radiant, image-bearing, and mediatorial language for God’s Wisdom without offering the later Nicene formula. Scholars continue to debate whether particular texts present mere personification, a quasi-personal hypostasis, or something more substantial.<sup id="cite-15-1"><a href="#source-15" aria-label="Source 15">[15]</a></sup> The debate itself warns against assuming that elevated language carries only one metaphysical meaning.
+These texts provide historically relevant evidence for a range of Jewish ways of describing divine Wisdom and mediation. Jewish monotheistic discourse could use personal, cosmic, radiant, image-bearing, and mediatorial language for God’s Wisdom without offering the later Nicene formula. Scholars continue to debate whether particular texts present mere personification, a quasi-personal hypostasis, or something more substantial.<sup id="cite-15-1"><a href="#source-15" aria-label="Source 15">[15]</a></sup> The debate itself warns against assuming that elevated language carries only one metaphysical meaning.
 
 ### 5.2 Wisdom Becomes Historically Localized
 
@@ -220,7 +220,7 @@ A Biblical Unitarian reading emphasizes that the prologue initially names God’
 
 John 1:18 adds a genuine textual difficulty. Ancient witnesses vary between forms meaning “unique God” and “unique Son,” and the reading with *theos* has strong early support.<sup id="cite-18-1"><a href="#source-18" aria-label="Source 18">[18]</a></sup> Even if “unique God” is original, however, one must still ask how John uses divine predication. The verse does not independently define a tri-personal divine essence. At the same time, it is too strong to be dismissed as an insignificant variant.
 
-The most balanced judgment is that John 1 strongly supports high Logos Christology and is compatible with personal preexistence. Wisdom embodiment remains a historically grounded alternative, but it carries the responsibility of explaining the prologue’s personal and creative language in full.
+The most balanced judgment is that John 1 strongly supports high Logos Christology and is compatible with personal preexistence. A Wisdom-embodiment reading remains a historically plausible alternative requiring comparison with the personal-preexistence reading, but it carries the responsibility of explaining the prologue’s personal and creative language in full.
 
 ### 6.2 John 8:58 and John 17:5
 
@@ -234,7 +234,7 @@ John 17:5 is still more direct: Jesus asks the Father for the glory he had with 
 
 “I and the Father are one” in John 10:30 uses the neuter *hen*, naturally expressing unity rather than personal identity. John 17 uses parallel language for the desired unity of believers. The unity of Father and Son is unique in degree and mission, but the grammatical form alone does not define one essence.
 
-The immediate controversy is also important. Jesus responds to the accusation of making himself God by citing Psalm 82, where subordinate figures receive divine terminology, and he restates his claim as “I am God’s Son.” A representative reading sees this as direct evidence that divinely authorized figures can bear god-language without becoming the supreme God.
+The immediate controversy is also important. Jesus responds to the accusation of making himself God by citing Psalm 82, where subordinate figures receive divine terminology, and he restates his claim as “I am God’s Son.” A representative reading sees this as evidence compatible with the broader biblical phenomenon of divinely authorized figures receiving elevated language without thereby being identified as the supreme God.
 
 Thomas’s confession in John 20:28, “My Lord and my God,” is more difficult. The most natural grammar addresses both titles to Jesus. Attempts to divide the words between Jesus and the Father are unpersuasive. A Biblical Unitarian reading should accept the address and interpret it within John’s agency and revelation themes: Thomas recognizes the risen Jesus as the climactic manifestation of God and as the bearer of divine authority. This interpretation is supported by Jesus’ statement only verses earlier, “my God and your God,” and by the evangelist’s purpose statement that readers believe Jesus is the Messiah, the Son of God (20:31).
 
@@ -256,7 +256,7 @@ First Corinthians 8:6 is one of the strongest texts on both sides. Paul says tha
 
 The divine-identity reading argues that Paul has reformulated the Shema by assigning “God” to the Father and “Lord” to Jesus. Since *kyrios* commonly renders the divine name in the Greek Scriptures, Jesus is included in Israel’s unique divine identity. The verse’s creation language strengthens that interpretation.<sup id="cite-3-3"><a href="#source-3" aria-label="Source 3">[3]</a></sup>
 
-The Biblical Unitarian reading observes that Paul explicitly identifies the one God as the Father and then distinguishes Jesus as the one Lord. The prepositions preserve order: all things are ultimately “from” God and “through” Christ. Agency and messianic lordship can explain why the exalted Messiah participates in divine action without becoming the God who is its source.
+The Biblical Unitarian reading observes that Paul explicitly identifies the one God as the Father and then distinguishes Jesus as the one Lord. The prepositions preserve order: all things are ultimately “from” God and “through” Christ. Agency and messianic lordship provide one historically available framework for explaining why the exalted Messiah participates in divine action while remaining distinguished from God as its ultimate source.
 
 Neither reading should be trivialized. The verse places Jesus at the center of creation and redeemed existence; it also preserves a grammatical distinction between the one God and the one Lord. Any adequate model must explain both.
 
@@ -362,7 +362,7 @@ The Greek verb *proskyneo* can denote worship of God, but it can also describe h
 
 The larger devotional pattern is more significant than one verb. Jesus receives cosmic praise in Revelation, is invoked in early Christian practice, and occupies a place no ordinary prophet occupies. Trinitarian interpreters reasonably argue that this is best explained by inclusion in the divine identity.
 
-Biblical Unitarians answer that God commands honor for the ruler he appoints. Philippians 2 frames universal confession as the result of God’s exaltation and as glory to the Father. Revelation distinguishes the Lamb from the One seated on the throne even while both receive praise; Revelation 3:12 preserves Jesus’ reference to “my God.” Devotion may therefore be mediated through God’s supreme representative.
+Biblical Unitarians answer that biblical texts permit exceptionally elevated honor to be given to divinely appointed rulers and agents, raising the question whether such honor necessarily entails ontological deity. Philippians 2 frames universal confession as the result of God’s exaltation and as glory to the Father. Revelation distinguishes the Lamb from the One seated on the throne even while both receive praise; Revelation 3:12 preserves Jesus’ reference to “my God.” Devotion may therefore be mediated through God’s supreme representative.
 
 The evidence establishes extraordinary devotion beyond dispute. Whether it establishes coequal ontology remains the interpretive question.
 
@@ -372,13 +372,13 @@ A common argument has the form: God alone forgives, judges, saves, gives life, o
 
 Scripture repeatedly depicts delegated divine activity. Judges save Israel under God’s commission; priests mediate forgiveness; prophets speak divine words; kings execute God’s judgment; apostles forgive or retain sins; and agents bear the sender’s name. John 5 explicitly says the Father gives the Son authority to judge and grants the Son to have life in himself. Acts 17 says God judges through the man he appointed. Matthew 28 says universal authority is given to Jesus.
 
-Delegation does not make the act unreal. If God judges through Jesus, Jesus truly judges. The question is whether the exercise of a divine function proves that the agent is ontologically the source of the function. The biblical pattern shows that the inference is not automatic.
+Delegation does not make the act unreal. If God judges through Jesus, Jesus truly judges. The question is whether the exercise of a divine function proves that the agent is ontologically the source of the function. The biblical pattern shows that the inference from divine function to ontological identity requires additional argument rather than being self-evident.
 
 ### 8.4 YHWH Texts Applied to Jesus
 
 New Testament writers apply to Jesus passages originally referring to YHWH. This is among the strongest arguments for divine identity. It occurs in contexts of preparing the Lord’s way, calling on the Lord’s name, universal bowing, creator language, and eschatological salvation.
 
-A representational response appeals to scriptural patterns of name-bearing, royal enthronement, and authorized presence. Exodus 23 depicts an angel bearing God’s name; the Davidic king sits on God’s throne; God’s acts can be narrated through agents. If the Messiah is God’s final and supreme representative, divine texts may be reapplied to him because God acts and is encountered through him.
+A representational response appeals to scriptural patterns of name-bearing, royal enthronement, and authorized presence. Exodus 23 depicts an angel bearing God’s name; the Davidic king sits on God’s throne; God’s acts can be narrated through agents. Within a representative model, the application of YHWH texts to the Messiah may be interpreted as the extension of God’s name, authority, and eschatological action to his supreme representative; whether this fully accounts for the density of such applications remains disputed.
 
 That response is conceptually possible, but it should not be treated as effortless. The density and importance of the transfers may indicate more than ordinary agency. The debate is cumulative: Trinitarians see inclusion in the divine identity; Unitarians see the maximum extension of biblical representation under the one God.
 
@@ -390,7 +390,7 @@ That response is conceptually possible, but it should not be treated as effortle
 
 The New Testament does not merely affirm that Jesus possesses a human body. It portrays a genuinely human life of growth, dependence, prayer, temptation, faith, obedience, suffering, and death. Jesus grows in wisdom, receives the Spirit, prays for help, distinguishes his will from God’s in Gethsemane, learns obedience through suffering, and entrusts himself to the One who can save him from death.
 
-Classical Christology preserves this material through the doctrine that the eternal Son assumed a complete human nature. Biblical Unitarianism reads it more directly: the subject who obeys, trusts, suffers, and dies is God’s human Son. His faithfulness is not a temporary performance by an omniscient divine consciousness but the real achievement of a Spirit-anointed human being.
+Classical Christology preserves this material through the doctrine that the eternal Son assumed a complete human nature. Biblical Unitarianism reads it more directly: the subject who obeys, trusts, suffers, and dies is God’s human Son. On the Biblical Unitarian reading, his faithfulness is the obedience of a genuinely human Messiah whose dependence upon God is constitutive rather than merely economically assumed.
 
 ### 9.2 The Second Adam and Faithful Israelite
 
@@ -473,7 +473,7 @@ The historical evidence supports two conclusions at once:
 1. The New Testament and earliest Christian worship contain genuine impulses toward very high Christology; Nicene theology did not answer a problem invented in the fourth century.
 2. The precise doctrine of one essence in three coequal persons and one Christ in two natures emerged through development, debate, philosophical clarification, and ecclesial decision.
 
-Whether that development represents faithful doctrinal maturation or an unnecessary metaphysical reinterpretation is a theological judgment, not a fact established merely by chronology. The most careful Unitarian critique is therefore not that Constantine invented Christ’s divinity, but that biblical categories of agency, Wisdom, image, sonship, and exaltation were progressively recast through ontological categories that may not be required by their original contexts.
+Whether that development represents faithful doctrinal maturation or an unnecessary metaphysical reinterpretation is a theological judgment, not a fact established merely by chronology. The most careful Unitarian critique is therefore not that Constantine invented Christ’s divinity, but that biblical categories of agency, Wisdom, image, sonship, and exaltation were increasingly interpreted and systematized through ontological categories whose necessity for the original texts remains disputed.
 
 
 
@@ -539,7 +539,7 @@ The strongest Trinitarian argument is cumulative. It does not rest only on dispu
 
 Taken together, this is a formidable case. The Trinitarian model explains the highest texts by taking their apparent divine implications ontologically. It then explains dependence, obedience, limited knowledge, prayer, suffering, death, and subjection through incarnation, two natures, and distinctions between eternal equality and economic role.
 
-Its principal exegetical cost is that these metaphysical distinctions are often not stated in the passages where they are needed. “The Son does not know” becomes “the Son does not know according to his human nature”; “my God” is assigned to the incarnate economy; and received authority coexists with intrinsic omnipotence. These explanations may be valid theological synthesis, but they are additional interpretive machinery.
+Its principal exegetical cost is that these metaphysical distinctions function as second-order theological explanations rather than distinctions ordinarily made explicit in the individual passages themselves. “The Son does not know” becomes “the Son does not know according to his human nature”; “my God” is assigned to the incarnate economy; and received authority coexists with intrinsic omnipotence. These explanations may be valid theological synthesis, but they are additional interpretive machinery.
 
 ### 12.2 The Strongest Biblical Unitarian Case
 
@@ -586,9 +586,9 @@ Conversely, representation cannot be invoked as a universal solvent. If the tota
 
 ### 12.5 Overall Judgment
 
-On historical-grammatical grounds, the Biblical Unitarian model retains an advantage of explanatory economy for the New Testament’s explicit relational architecture. One person calls another “my God,” identifies him as “the only true God,” is sent and commanded by him, receives authority from him, is raised and exalted by him, mediates between him and humanity, and is finally subjected to him. The natural conclusion is a distinction between the one God and **God’s Man**—the Messiah whom that God appoints.
+On historical-grammatical grounds, the Biblical Unitarian model retains an advantage of explanatory economy for the New Testament’s explicit relational architecture. One person calls another “my God,” identifies him as “the only true God,” is sent and commanded by him, receives authority from him, is raised and exalted by him, mediates between him and humanity, and is finally subjected to him. On the methodological criteria defended in this study, a comparatively economical conclusion is a distinction between the one God and **God’s Man**—the Messiah whom that God appoints.
 
-The Trinitarian model can accommodate all of this, but usually by invoking a distinction between person and nature, eternal and economic relations, or divine and human consciousness. Those distinctions may be theologically legitimate; they are not ordinarily supplied by the individual sentences themselves.
+The Trinitarian model can accommodate this evidence through developed distinctions between person and nature, eternal and economic relations, and divine and human modes of experience. Those distinctions may be theologically legitimate; they are not ordinarily supplied by the individual sentences themselves.
 
 The judgment must remain qualified. The Biblical Unitarian reading does not remove every difficulty, and the highest Christological texts exert real pressure toward personal preexistence and divine identity. The conclusion is therefore a reasoned comparative judgment, not a claim that alternative readings are linguistically impossible.
 
@@ -610,7 +610,7 @@ The New Testament also contains direct appeals to Jesus and exceptionally elevat
 
 ### 13.3 Discipleship and the Meaning of Jesus’ Example
 
-A genuinely human Messiah makes Jesus’ obedience directly paradigmatic. His temptations are real, his trust in God is meaningful, his prayers are not a dramatic performance, and his suffering faithfulness displays what Spirit-filled humanity can become. Discipleship means following the human Son who trusted God perfectly, not merely admiring a divine being whose moral victory was guaranteed by intrinsic deity.
+A genuinely human Messiah makes Jesus’ obedience directly paradigmatic. His temptations are real, his trust in God is meaningful, his prayers are not a dramatic performance, and his suffering faithfulness displays what Spirit-filled humanity can become. Discipleship means following the human Son who trusted God perfectly, rather than interpreting his obedience primarily through the additional framework of an eternally divine subject possessing a complete human nature.
 
 Trinitarian theology also insists that Jesus is fully human and truly tempted. The practical difference concerns how the two-natures framework is understood. Biblical Unitarians regard Jesus’ single human consciousness and dependence upon God as central to his example; Trinitarians regard the incarnation as enabling the eternal Son to live a genuinely human life without ceasing to be divine.
 
@@ -644,13 +644,13 @@ The issue cannot be resolved by saying only that a word is absent from Scripture
 
 ### 14.3 Christian-Jewish Dialogue
 
-A Father-centered Unitarian confession shares with Judaism an unqualified affirmation that the God of Israel is one person. Presenting Jesus as Messiah, prophet like Moses, Davidic king, Son of Man, and supreme *shaliah* removes the immediate claim that a human being must be identified with YHWH. This can make the Christian message more intelligible within Jewish monotheistic categories.
+A Father-centered Unitarian confession shares with Judaism an unqualified affirmation of the sole and unique deity of the God of Israel. Presenting Jesus as Messiah, prophet like Moses, Davidic king, Son of Man, and supreme *shaliah* removes the immediate claim that a human being must be identified with YHWH. This can make the Christian message more intelligible within Jewish monotheistic categories.
 
 Substantial differences remain. Judaism does not generally confess Jesus as Messiah, resurrected Lord, universal judge, mediator of the new covenant, or the one through whom the nations receive eschatological life. Historical Christian persecution also cannot be reduced to a Christological misunderstanding. Biblical Unitarianism may remove one conceptual barrier, but it does not erase the distinctively Christian claims about Jesus.
 
 ### 14.4 Christian-Muslim Dialogue
 
-Islam likewise rejects a tri-personal understanding of God and honors Jesus as Messiah and prophet while denying central Christian claims concerning divine sonship, crucifixion, resurrection, and redemptive lordship. A Biblical Unitarian can affirm without qualification that God is one person and that Jesus is not God, which removes the standard Muslim objection to the Trinity.
+Islam likewise rejects a tri-personal understanding of God and honors Jesus as Messiah and prophet while denying central Christian claims concerning divine sonship, crucifixion, resurrection, and redemptive lordship. A Biblical Unitarian can affirm without qualification that God alone is the one supreme deity and Jesus is not ontologically identical with God, which removes the standard Muslim objection to the Trinity.
 
 The remaining disagreement is still profound. Biblical Unitarians confess Jesus’ unique sonship, death, resurrection, heavenly exaltation, future judgment, and binding lordship. Their position is therefore not an Islamic Christology expressed in Christian vocabulary. It offers a different form of Christian monotheism, not a dissolution of the Christian gospel into generic Abrahamic agreement.
 
@@ -666,21 +666,21 @@ The proper value of interfaith dialogue is diagnostic. It forces Christians to s
 
 The New Testament Jesus is not merely a moral teacher or one prophet among many. He is **God’s Man in the fullest biblical sense**: God’s uniquely begotten Son, the Davidic Messiah, the last Adam, the embodiment of divine Wisdom, the image of the invisible God, the definitive revealer, the mediator of the new covenant, the resurrected Son of Man, the appointed judge, and the Lord of the coming age.
 
-His greatness is relational and vocational. God sends him; he perfectly represents the sender. God gives him words; he speaks them faithfully. God gives him works; he performs them. God raises him; he becomes the firstfruits of renewed humanity. God exalts him; he receives the name and authority above every created ruler. God judges and saves through him; humanity comes to the Father through the Son.
+His exalted status is presented in strongly relational, representative, and vocational terms. God sends him; he perfectly represents the sender. God gives him words; he speaks them faithfully. God gives him works; he performs them. God raises him; he becomes the firstfruits of renewed humanity. God exalts him; he receives the name and authority above every created ruler. God judges and saves through him; humanity comes to the Father through the Son.
 
-This structure allows the highest possible honor for Jesus without dissolving the distinction between God and **God’s Man—the Messiah he has appointed**. To see Jesus is to see the Father’s character manifested. To receive Jesus is to receive the one who sent him. To honor the Son is to honor the Father who appointed him. Representation is not diminishment; in the biblical story it is the means by which the invisible God becomes known and active in history.
+This structure allows exceptionally elevated honor for Jesus while maintaining a distinction between God and **God’s Man—the Messiah he has appointed**. To see Jesus is to see the Father’s character manifested. To receive Jesus is to receive the one who sent him. To honor the Son is to honor the Father who appointed him. Representation is not diminishment; in the biblical story it is the means by which the invisible God becomes known and active in history.
 
 The Trinitarian synthesis remains a serious and historically sophisticated attempt to explain the same evidence. It should not be dismissed through slogans about Constantine, paganism, or logical absurdity. Its strongest texts and arguments must be granted their full weight. Yet the later formula of one essence in three coequal persons is a theological construction drawn from the New Testament, not a sentence the New Testament itself recites.
 
-The most economical synthesis is therefore that the Father is the one God and Jesus is **God’s Man—the one Lord Messiah** through whom the Father’s purposes are accomplished. The eternal reality is God’s Wisdom, Word, promise, and redemptive purpose; the historical embodiment and fulfillment is Jesus of Nazareth. The authority is God’s; the authorized ruler is the Son. The saving action originates from God and reaches humanity through the Messiah.
+The most economical synthesis is therefore that the Father is the one God and Jesus is **God’s Man—the one Lord Messiah** through whom the Father’s purposes are accomplished. On the reading defended here, the eternal reality is God’s Wisdom, Word, promise, and redemptive purpose, while Jesus of Nazareth is their definitive historical embodiment and fulfillment. The authority is God’s; the authorized ruler is the Son. The saving action originates from God and reaches humanity through the Messiah.
 
 This conclusion preserves the apostolic gospel’s narrative shape. God acted through Jesus. Jesus proclaimed God’s kingdom, obeyed faithfully, suffered, died, and was raised. God made him Lord and Messiah, seated him at the divine right hand, and appointed him judge. Through him God grants forgiveness, the Spirit, resurrection, and life in the coming age.
 
 The same relational order includes the Spirit. God anoints and empowers Jesus by the Spirit, pours out the Spirit through the exalted Messiah, and dwells in believers by the Spirit. The triadic shape of salvation is fully real without requiring that Father, Son, and Spirit be defined as three coequal centers of personhood within one essence.
 
-The final confession can therefore remain both monotheistic and christologically exalted: there is one God, the Father, and one Lord, Jesus Christ. The Father is the ultimate source; the Son is the supreme mediator. The image reveals the invisible God without becoming the one imaged. The Messiah exercises divine authority because God has entrusted it to him. The distinction between God and **God’s Man** is not an embarrassment to be erased; it is the relational structure through which the New Testament tells the story of salvation.
+The final confession can therefore remain both monotheistic and christologically exalted: there is one God, the Father, and one Lord, Jesus Christ. The Father is the ultimate source; the Son is the supreme mediator. The designation of Jesus as God’s image can be understood representationally without, by itself, determining the ontological relation between image and the God imaged. The Messiah exercises divine authority because God has entrusted it to him. The distinction between God and **God’s Man** is not an embarrassment to be erased; it is the relational structure through which the New Testament tells the story of salvation.
 
-The governing contrast can therefore be stated without ambiguity. The New Testament’s dominant relational pattern is not God becoming his own human agent, but God acting uniquely and definitively through **God’s Man**—the human Messiah whom he sent, empowered, raised, and exalted. “God’s Man” does not mean *merely* a man. It identifies the man whom God made Lord and Messiah: the perfect image of God, the mediator of the new covenant, the firstborn from the dead, and the universal ruler of the coming age.
+The governing contrast can therefore be stated without ambiguity. The New Testament’s dominant sender-sent relational pattern does not by itself require the conclusion that the sent Son shares the divine essence of the One who sends him; it can be coherently read as God acting uniquely and definitively through **God’s Man**—the human Messiah whom he sent, empowered, raised, and exalted. “God’s Man” does not mean *merely* a man. It identifies the man whom God made Lord and Messiah: the perfect image of God, the mediator of the new covenant, the firstborn from the dead, and the universal ruler of the coming age.
 
 ---
 
