@@ -7,6 +7,7 @@
 
 ---
 
+<a id="abstract"></a>
 ## Abstract
 
 This study asks whether the New Testament’s exalted presentation of Jesus requires the church-traditional identification of him as the **God-Man**—God the Son incarnate and ontologically included within the one God of Israel—or may be more economically explained through the Biblical Unitarian understanding of him as **God’s Man**: the uniquely authorized human Messiah interpreted through Jewish categories of commissioned agency, personified Wisdom, divine image, messianic kingship, genuine human obedience, resurrection, and exaltation. It argues that Biblical Unitarian Christology offers substantial explanatory economy by preserving the New Testament’s ordinary distinction between God and Jesus while affirming Jesus as God’s unique Son, supreme agent, embodied Wisdom, risen Lord, mediator, and appointed judge.
@@ -40,6 +41,7 @@ The investigation treats the strongest Trinitarian evidence as genuine counterev
 
 
 
+<a id="section-1"></a>
 ## 1. Introduction — God-Man or God’s Man?
 
 Few questions have shaped Christian theology more deeply than the identity of Jesus. Much of historic Christianity confesses him as the **God-Man**: the eternal Son, fully divine and fully human, distinct from the Father yet sharing the one divine essence. Biblical Unitarian Christology instead confesses him as **God’s Man**—not merely a man, but God’s uniquely begotten human Son, Messiah, supreme agent, image, mediator, resurrected Lord, and appointed judge—under the one God, the Father.
@@ -54,6 +56,7 @@ That conclusion is not established by pretending that every difficult text is ea
 
 
 
+<a id="section-2"></a>
 ## 2. Method and Historical Cautions
 
 ### 2.1 Comparative Explanatory Power
@@ -78,6 +81,7 @@ The New Testament does not contain a systematic sentence defining God as three c
 
 
 
+<a id="section-3"></a>
 ## 3. The One God and God’s Man — The Human Messiah
 
 ### 3.1 The Identity Statements
@@ -113,6 +117,7 @@ Trinitarian interpreters may describe this as the eternal order of divine relati
 
 
 
+<a id="section-4"></a>
 ## 4. Divine Agency — Representative Authority Without Ontological Identity
 
 ### 4.1 The Scriptural Grammar of Representation
@@ -147,6 +152,7 @@ Its limitation must also be stated. Some New Testament passages appear to go bey
 
 
 
+<a id="section-5"></a>
 ## 5. Wisdom and Word — From Divine Purpose to the Historical Jesus
 
 ### 5.1 Personified Wisdom in Early Jewish Texts
@@ -208,6 +214,7 @@ It does not follow that every preexistence statement is ideal. John 8:58 and Joh
 
 
 
+<a id="section-6"></a>
 ## 6. Major Christological Texts — Exegesis and Counterevidence
 
 ### 6.1 John 1:1–18
@@ -316,6 +323,7 @@ Likewise, *kyrios* can render the divine name, but it can also mean master, rule
 
 
 
+<a id="section-7"></a>
 ## 7. The Holy Spirit — Divine Presence, Power, and Triadic Evidence
 
 ### 7.1 The Spirit as God’s Active Presence and Power
@@ -348,6 +356,7 @@ Within a Biblical Unitarian framework, the confession may be summarized as one G
 
 
 
+<a id="section-8"></a>
 ## 8. Worship and Divine Prerogatives — Honor, Authority, and YHWH Texts
 
 ### 8.1 The Reality of Early Devotion
@@ -384,6 +393,7 @@ That response is conceptually possible, but it should not be treated as effortle
 
 
 
+<a id="section-9"></a>
 ## 9. God’s Man and the Restoration of Humanity — Adam Christology and Redemption
 
 ### 9.1 Genuine Obedience, Temptation, Faith, and Suffering
@@ -428,6 +438,7 @@ The apostolic gospel is therefore narrative before it is metaphysical. God sends
 
 
 
+<a id="section-10"></a>
 ## 10. From Early Christology to Creed — Nicaea, Constantinople, and Chalcedon
 
 ### 10.1 Early Devotion and the Limits of the “Constantine Invented It” Narrative
@@ -477,6 +488,7 @@ Whether that development represents faithful doctrinal maturation or an unnecess
 
 
 
+<a id="section-11"></a>
 ## 11. Nontrinitarian Trajectories — Jewish Christianity, Arianism, Socinianism, and Beyond
 
 ### 11.1 The Problem of Retrospective Labels
@@ -523,6 +535,7 @@ The evidence shows early high devotion, early human-Messiah alternatives, widesp
 
 
 
+<a id="section-12"></a>
 ## 12. God-Man or God’s Man? — Comparing the Explanatory Models
 
 ### 12.1 The Strongest Trinitarian Case
@@ -594,6 +607,7 @@ The judgment must remain qualified. The Biblical Unitarian reading does not remo
 
 
 
+<a id="section-13"></a>
 ## 13. Gospel and Faith Practice — Worship, Discipleship, and Proclamation
 
 ### 13.1 The Gospel’s Narrative Shape
@@ -628,6 +642,7 @@ Constructive dialogue requires precise definitions, willingness to concede diffi
 
 
 
+<a id="section-14"></a>
 ## 14. Contemporary Implications — Theology, Fellowship, and Interfaith Dialogue
 
 ### 14.1 Intra-Christian Identity and Fellowship
@@ -662,6 +677,7 @@ The proper value of interfaith dialogue is diagnostic. It forces Christians to s
 
 
 
+<a id="section-15"></a>
 ## 15. Conclusion — God’s Man: Son, Messiah, and Lord
 
 The New Testament Jesus is not merely a moral teacher or one prophet among many. He is **God’s Man in the fullest biblical sense**: God’s uniquely begotten Son, the Davidic Messiah, the last Adam, the embodiment of divine Wisdom, the image of the invisible God, the definitive revealer, the mediator of the new covenant, the resurrected Son of Man, the appointed judge, and the Lord of the coming age.
@@ -686,6 +702,7 @@ The governing contrast can therefore be stated without ambiguity. The New Testam
 
 
 
+<a id="bibliography"></a>
 ## Bibliography
 
 
@@ -726,6 +743,7 @@ The governing contrast can therefore be stated without ambiguity. The New Testam
 
 
 
+<a id="source-notes"></a>
 ## Source Notes
 
 1. <a id="source-1"></a>James D. G. Dunn, *Christology in the Making: A New Testament Inquiry into the Origins of the Doctrine of the Incarnation*, 2nd ed. (Eerdmans, 1996), [publisher description](https://www.eerdmans.com/9780802842572/christology-in-the-making/). [↩1](#cite-1-1)
